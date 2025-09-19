@@ -1,18 +1,35 @@
 # This program will help count letters in a text
 
-print("Enter text below, and it will print how many letters does it contain")
+print("Enter text below, and it will print how many letters does it contain!")
 entered_text = input("Enter text: ")
 
 counter = 0
+word_counter = 0
 
-for letter in entered_text:
+if len(entered_text) == 0:
 
-    if letter.isalpha():
+    print("No words provided!")
 
-        counter += 1
+if len(entered_text) > 0:
+
+    if entered_text.isspace():
+
+        print("No words provided!")
 
     else:
 
-        pass
+        for letter in entered_text:
 
-print(f"Total letter count: {counter}")
+            if letter.isalpha():
+
+                counter += 1
+
+            if letter.isspace():
+
+                word_counter += 1
+
+        if counter > 0:
+
+            word_counter += 1
+
+        print(f"Total word count: {word_counter}")
