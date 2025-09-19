@@ -1,11 +1,11 @@
-S tozi kod mojem da convertirame mejdu kilogrami i paundove.
+#S tozi kod mojem da convertirame mejdu kilogrami i paundove.
 
-Formulata e slednata:
+#Formulata e slednata:
 
-Ako iskame ot kilogrami kum paundove, umnojavame s 2.2
+#Ako iskame ot kilogrami kum paundove, umnojavame s 2.2
 
 
-Ako puk iskame obratnoto, shte razdelim na 2.2
+#Ako puk iskame obratnoto, shte razdelim na 2.2
 
 ###
 
