@@ -1,6 +1,13 @@
 # First iteration of MP3 downloader. Using moviePy lib to edit
 # m4a files to mp3.
 
+# It downloads them to personally created directory called /tmp
+# after download, it converts the file and move it to another directory
+# called mp3 downloads on desktop.
+
+# As it is first iteration, next iteration will fix the issue with directories
+# to be more universal, rather being so personal.
+
 import os
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
