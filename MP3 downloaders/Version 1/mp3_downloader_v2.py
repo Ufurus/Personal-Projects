@@ -3,7 +3,7 @@
 
 # It downloads them to personally created directory called /tmp
 # after download, it converts the file and move it to another directory
-# called mp3 downloads on desktop.
+# called mp3 downloads on desktop. Also, it should be setup with a GUI in future versions.
 
 # As it is first iteration, next iteration will fix the issue with directories
 # to be more universal, rather being so personal.
@@ -13,11 +13,11 @@ from pytubefix import YouTube
 from pytubefix.cli import on_progress
 from moviepy import AudioFileClip
 
-temporary_directory = r'C:\Users\Потребител\Desktop\tmp'
-target_directory = r'C:/Users/Потребител/Desktop/MP3 downloads'
+temporary_directory = r'C:\Users\Потребител\Desktop\tmp' # where it will download and convert files temporary
+target_directory = r'C:/Users/Потребител/Desktop/MP3 downloads' # target directory where MP3 files will go
 
 def transform_from_m4a_to_mp3(curr_directory):
-
+    """"Function to convert m4a file to mp3"""
     for filename in os.listdir(curr_directory):
         if filename == yt.title + '.m4a':
             file_location = os.path.join(curr_directory, filename)
