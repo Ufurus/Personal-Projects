@@ -5,9 +5,7 @@ from moviepy import AudioFileClip
 from pytubefix import YouTube
 from pytubefix.cli import on_progress
 from pathlib import Path
-import glob
 import os
-
 
 def error_message():
     messagebox.showinfo("Error!", "Please enter a valid URL")
