@@ -1,0 +1,3284 @@
+{
+    "https://www.worldometers.info/geography/countries-of-the-world/": [
+        {
+            "#": 1,
+            "Country": "India",
+            "Population 2026": 1476625576,
+            "Region": "Asia"
+        },
+        {
+            "#": 2,
+            "Country": "China",
+            "Population 2026": 1412914089,
+            "Region": "Asia"
+        },
+        {
+            "#": 3,
+            "Country": "United States",
+            "Population 2026": 349035494,
+            "Region": "Northern America"
+        },
+        {
+            "#": 4,
+            "Country": "Indonesia",
+            "Population 2026": 287886782,
+            "Region": "Asia"
+        },
+        {
+            "#": 5,
+            "Country": "Pakistan",
+            "Population 2026": 259299791,
+            "Region": "Asia"
+        },
+        {
+            "#": 6,
+            "Country": "Nigeria",
+            "Population 2026": 242431832,
+            "Region": "Africa"
+        },
+        {
+            "#": 7,
+            "Country": "Brazil",
+            "Population 2026": 213562666,
+            "Region": "Latin America"
+        },
+        {
+            "#": 8,
+            "Country": "Bangladesh",
+            "Population 2026": 177818044,
+            "Region": "Asia"
+        },
+        {
+            "#": 9,
+            "Country": "Russia",
+            "Population 2026": 143394458,
+            "Region": "Europe"
+        },
+        {
+            "#": 10,
+            "Country": "Ethiopia",
+            "Population 2026": 138902185,
+            "Region": "Africa"
+        },
+        {
+            "#": 11,
+            "Country": "Mexico",
+            "Population 2026": 132997658,
+            "Region": "Latin America"
+        },
+        {
+            "#": 12,
+            "Country": "Japan",
+            "Population 2026": 122427731,
+            "Region": "Asia"
+        },
+        {
+            "#": 13,
+            "Country": "Egypt",
+            "Population 2026": 120101175,
+            "Region": "Africa"
+        },
+        {
+            "#": 14,
+            "Country": "Philippines",
+            "Population 2026": 117724471,
+            "Region": "Asia"
+        },
+        {
+            "#": 15,
+            "Country": "DR Congo",
+            "Population 2026": 116452162,
+            "Region": "Africa"
+        },
+        {
+            "#": 16,
+            "Country": "Vietnam",
+            "Population 2026": 102177431,
+            "Region": "Asia"
+        },
+        {
+            "#": 17,
+            "Country": "Iran",
+            "Population 2026": 93168497,
+            "Region": "Asia"
+        },
+        {
+            "#": 18,
+            "Country": "Turkey",
+            "Population 2026": 87926082,
+            "Region": "Asia"
+        },
+        {
+            "#": 19,
+            "Country": "Germany",
+            "Population 2026": 83644258,
+            "Region": "Europe"
+        },
+        {
+            "#": 20,
+            "Country": "Tanzania",
+            "Population 2026": 72563780,
+            "Region": "Africa"
+        },
+        {
+            "#": 21,
+            "Country": "Thailand",
+            "Population 2026": 71559614,
+            "Region": "Asia"
+        },
+        {
+            "#": 22,
+            "Country": "United Kingdom",
+            "Population 2026": 69931528,
+            "Region": "Europe"
+        },
+        {
+            "#": 23,
+            "Country": "France",
+            "Population 2026": 66746401,
+            "Region": "Europe"
+        },
+        {
+            "#": 24,
+            "Country": "South Africa",
+            "Population 2026": 65453084,
+            "Region": "Africa"
+        },
+        {
+            "#": 25,
+            "Country": "Italy",
+            "Population 2026": 58926166,
+            "Region": "Europe"
+        },
+        {
+            "#": 26,
+            "Country": "Kenya",
+            "Population 2026": 58636412,
+            "Region": "Africa"
+        },
+        {
+            "#": 27,
+            "Country": "Myanmar",
+            "Population 2026": 55184819,
+            "Region": "Asia"
+        },
+        {
+            "#": 28,
+            "Country": "Colombia",
+            "Population 2026": 53936226,
+            "Region": "Latin America"
+        },
+        {
+            "#": 29,
+            "Country": "Sudan",
+            "Population 2026": 53282719,
+            "Region": "Africa"
+        },
+        {
+            "#": 30,
+            "Country": "Uganda",
+            "Population 2026": 52761469,
+            "Region": "Africa"
+        },
+        {
+            "#": 31,
+            "Country": "South Korea",
+            "Population 2026": 51600388,
+            "Region": "Asia"
+        },
+        {
+            "#": 32,
+            "Country": "Algeria",
+            "Population 2026": 48028334,
+            "Region": "Africa"
+        },
+        {
+            "#": 33,
+            "Country": "Iraq",
+            "Population 2026": 48007437,
+            "Region": "Asia"
+        },
+        {
+            "#": 34,
+            "Country": "Spain",
+            "Population 2026": 47850793,
+            "Region": "Europe"
+        },
+        {
+            "#": 35,
+            "Country": "Argentina",
+            "Population 2026": 46003734,
+            "Region": "Latin America"
+        },
+        {
+            "#": 36,
+            "Country": "Afghanistan",
+            "Population 2026": 45047069,
+            "Region": "Asia"
+        },
+        {
+            "#": 37,
+            "Country": "Yemen",
+            "Population 2026": 42961653,
+            "Region": "Asia"
+        },
+        {
+            "#": 38,
+            "Country": "Canada",
+            "Population 2026": 40467728,
+            "Region": "Northern America"
+        },
+        {
+            "#": 39,
+            "Country": "Angola",
+            "Population 2026": 40215179,
+            "Region": "Africa"
+        },
+        {
+            "#": 40,
+            "Country": "Ukraine",
+            "Population 2026": 39535849,
+            "Region": "Europe"
+        },
+        {
+            "#": 41,
+            "Country": "Morocco",
+            "Population 2026": 38762441,
+            "Region": "Africa"
+        },
+        {
+            "#": 42,
+            "Country": "Poland",
+            "Population 2026": 37843188,
+            "Region": "Europe"
+        },
+        {
+            "#": 43,
+            "Country": "Uzbekistan",
+            "Population 2026": 37724223,
+            "Region": "Asia"
+        },
+        {
+            "#": 44,
+            "Country": "Mozambique",
+            "Population 2026": 36639851,
+            "Region": "Africa"
+        },
+        {
+            "#": 45,
+            "Country": "Malaysia",
+            "Population 2026": 36385115,
+            "Region": "Asia"
+        },
+        {
+            "#": 46,
+            "Country": "Ghana",
+            "Population 2026": 35697557,
+            "Region": "Africa"
+        },
+        {
+            "#": 47,
+            "Country": "Saudi Arabia",
+            "Population 2026": 35165787,
+            "Region": "Asia"
+        },
+        {
+            "#": 48,
+            "Country": "Peru",
+            "Population 2026": 34922148,
+            "Region": "Latin America"
+        },
+        {
+            "#": 49,
+            "Country": "Madagascar",
+            "Population 2026": 33522052,
+            "Region": "Africa"
+        },
+        {
+            "#": 50,
+            "Country": "C\u00f4te d'Ivoire",
+            "Population 2026": 33494346,
+            "Region": "Africa"
+        },
+        {
+            "#": 51,
+            "Country": "Cameroon",
+            "Population 2026": 30640817,
+            "Region": "Africa"
+        },
+        {
+            "#": 52,
+            "Country": "Nepal",
+            "Population 2026": 29629410,
+            "Region": "Asia"
+        },
+        {
+            "#": 53,
+            "Country": "Niger",
+            "Population 2026": 28814878,
+            "Region": "Africa"
+        },
+        {
+            "#": 54,
+            "Country": "Venezuela",
+            "Population 2026": 28633711,
+            "Region": "Latin America"
+        },
+        {
+            "#": 55,
+            "Country": "Australia",
+            "Population 2026": 27227096,
+            "Region": "Oceania"
+        },
+        {
+            "#": 56,
+            "Country": "North Korea",
+            "Population 2026": 26633691,
+            "Region": "Asia"
+        },
+        {
+            "#": 57,
+            "Country": "Syria",
+            "Population 2026": 26472497,
+            "Region": "Asia"
+        },
+        {
+            "#": 58,
+            "Country": "Mali",
+            "Population 2026": 25932275,
+            "Region": "Africa"
+        },
+        {
+            "#": 59,
+            "Country": "Burkina Faso",
+            "Population 2026": 24601700,
+            "Region": "Africa"
+        },
+        {
+            "#": 60,
+            "Country": "Sri Lanka",
+            "Population 2026": 23348315,
+            "Region": "Asia"
+        },
+        {
+            "#": 61,
+            "Country": "Malawi",
+            "Population 2026": 22785535,
+            "Region": "Africa"
+        },
+        {
+            "#": 62,
+            "Country": "Zambia",
+            "Population 2026": 22521915,
+            "Region": "Africa"
+        },
+        {
+            "#": 63,
+            "Country": "Chad",
+            "Population 2026": 21560380,
+            "Region": "Africa"
+        },
+        {
+            "#": 64,
+            "Country": "Kazakhstan",
+            "Population 2026": 21083626,
+            "Region": "Asia"
+        },
+        {
+            "#": 65,
+            "Country": "Somalia",
+            "Population 2026": 20305907,
+            "Region": "Africa"
+        },
+        {
+            "#": 66,
+            "Country": "Chile",
+            "Population 2026": 19945850,
+            "Region": "Latin America"
+        },
+        {
+            "#": 67,
+            "Country": "Senegal",
+            "Population 2026": 19366548,
+            "Region": "Africa"
+        },
+        {
+            "#": 68,
+            "Country": "Guatemala",
+            "Population 2026": 18967978,
+            "Region": "Latin America"
+        },
+        {
+            "#": 69,
+            "Country": "Romania",
+            "Population 2026": 18800605,
+            "Region": "Europe"
+        },
+        {
+            "#": 70,
+            "Country": "Netherlands",
+            "Population 2026": 18448775,
+            "Region": "Europe"
+        },
+        {
+            "#": 71,
+            "Country": "Ecuador",
+            "Population 2026": 18444506,
+            "Region": "Latin America"
+        },
+        {
+            "#": 72,
+            "Country": "Cambodia",
+            "Population 2026": 18051219,
+            "Region": "Asia"
+        },
+        {
+            "#": 73,
+            "Country": "Zimbabwe",
+            "Population 2026": 17273580,
+            "Region": "Africa"
+        },
+        {
+            "#": 74,
+            "Country": "Guinea",
+            "Population 2026": 15441993,
+            "Region": "Africa"
+        },
+        {
+            "#": 75,
+            "Country": "Benin",
+            "Population 2026": 15170419,
+            "Region": "Africa"
+        },
+        {
+            "#": 76,
+            "Country": "Rwanda",
+            "Population 2026": 14889693,
+            "Region": "Africa"
+        },
+        {
+            "#": 77,
+            "Country": "Burundi",
+            "Population 2026": 14729157,
+            "Region": "Africa"
+        },
+        {
+            "#": 78,
+            "Country": "Bolivia",
+            "Population 2026": 12749291,
+            "Region": "Latin America"
+        },
+        {
+            "#": 79,
+            "Country": "South Sudan",
+            "Population 2026": 12436037,
+            "Region": "Africa"
+        },
+        {
+            "#": 80,
+            "Country": "Tunisia",
+            "Population 2026": 12415138,
+            "Region": "Africa"
+        },
+        {
+            "#": 81,
+            "Country": "Haiti",
+            "Population 2026": 12037506,
+            "Region": "Latin America"
+        },
+        {
+            "#": 82,
+            "Country": "Belgium",
+            "Population 2026": 11774642,
+            "Region": "Europe"
+        },
+        {
+            "#": 83,
+            "Country": "Dominican Republic",
+            "Population 2026": 11609500,
+            "Region": "Latin America"
+        },
+        {
+            "#": 84,
+            "Country": "Jordan",
+            "Population 2026": 11589532,
+            "Region": "Asia"
+        },
+        {
+            "#": 85,
+            "Country": "United Arab Emirates",
+            "Population 2026": 11574682,
+            "Region": "Asia"
+        },
+        {
+            "#": 86,
+            "Country": "Honduras",
+            "Population 2026": 11184760,
+            "Region": "Latin America"
+        },
+        {
+            "#": 87,
+            "Country": "Tajikistan",
+            "Population 2026": 10978599,
+            "Region": "Asia"
+        },
+        {
+            "#": 88,
+            "Country": "Papua New Guinea",
+            "Population 2026": 10947848,
+            "Region": "Oceania"
+        },
+        {
+            "#": 89,
+            "Country": "Cuba",
+            "Population 2026": 10892659,
+            "Region": "Latin America"
+        },
+        {
+            "#": 90,
+            "Country": "Sweden",
+            "Population 2026": 10701047,
+            "Region": "Europe"
+        },
+        {
+            "#": 91,
+            "Country": "Czech Republic (Czechia)",
+            "Population 2026": 10527781,
+            "Region": "Europe"
+        },
+        {
+            "#": 92,
+            "Country": "Azerbaijan",
+            "Population 2026": 10454855,
+            "Region": "Asia"
+        },
+        {
+            "#": 93,
+            "Country": "Portugal",
+            "Population 2026": 10395362,
+            "Region": "Europe"
+        },
+        {
+            "#": 94,
+            "Country": "Togo",
+            "Population 2026": 9930918,
+            "Region": "Africa"
+        },
+        {
+            "#": 95,
+            "Country": "Greece",
+            "Population 2026": 9897115,
+            "Region": "Europe"
+        },
+        {
+            "#": 96,
+            "Country": "Israel",
+            "Population 2026": 9647689,
+            "Region": "Asia"
+        },
+        {
+            "#": 97,
+            "Country": "Hungary",
+            "Population 2026": 9585818,
+            "Region": "Europe"
+        },
+        {
+            "#": 98,
+            "Country": "Austria",
+            "Population 2026": 9107266,
+            "Region": "Europe"
+        },
+        {
+            "#": 99,
+            "Country": "Switzerland",
+            "Population 2026": 9007798,
+            "Region": "Europe"
+        },
+        {
+            "#": 100,
+            "Country": "Sierra Leone",
+            "Population 2026": 8996745,
+            "Region": "Africa"
+        },
+        {
+            "#": 101,
+            "Country": "Belarus",
+            "Population 2026": 8937018,
+            "Region": "Europe"
+        },
+        {
+            "#": 102,
+            "Country": "Laos",
+            "Population 2026": 7974017,
+            "Region": "Asia"
+        },
+        {
+            "#": 103,
+            "Country": "Turkmenistan",
+            "Population 2026": 7736632,
+            "Region": "Asia"
+        },
+        {
+            "#": 104,
+            "Country": "Libya",
+            "Population 2026": 7539851,
+            "Region": "Africa"
+        },
+        {
+            "#": 105,
+            "Country": "Kyrgyzstan",
+            "Population 2026": 7400465,
+            "Region": "Asia"
+        },
+        {
+            "#": 106,
+            "Country": "Nicaragua",
+            "Population 2026": 7097329,
+            "Region": "Latin America"
+        },
+        {
+            "#": 107,
+            "Country": "Paraguay",
+            "Population 2026": 7095279,
+            "Region": "Latin America"
+        },
+        {
+            "#": 108,
+            "Country": "Bulgaria",
+            "Population 2026": 6667659,
+            "Region": "Europe"
+        },
+        {
+            "#": 109,
+            "Country": "Serbia",
+            "Population 2026": 6641964,
+            "Region": "Europe"
+        },
+        {
+            "#": 110,
+            "Country": "Congo",
+            "Population 2026": 6637785,
+            "Region": "Africa"
+        },
+        {
+            "#": 111,
+            "Country": "El Salvador",
+            "Population 2026": 6391253,
+            "Region": "Latin America"
+        },
+        {
+            "#": 112,
+            "Country": "Denmark",
+            "Population 2026": 6023520,
+            "Region": "Europe"
+        },
+        {
+            "#": 113,
+            "Country": "Singapore",
+            "Population 2026": 5905748,
+            "Region": "Asia"
+        },
+        {
+            "#": 114,
+            "Country": "Lebanon",
+            "Population 2026": 5897467,
+            "Region": "Asia"
+        },
+        {
+            "#": 115,
+            "Country": "Liberia",
+            "Population 2026": 5853949,
+            "Region": "Africa"
+        },
+        {
+            "#": 116,
+            "Country": "Central African Republic",
+            "Population 2026": 5698984,
+            "Region": "Africa"
+        },
+        {
+            "#": 117,
+            "Country": "State of Palestine",
+            "Population 2026": 5692790,
+            "Region": "Asia"
+        },
+        {
+            "#": 118,
+            "Country": "Oman",
+            "Population 2026": 5671458,
+            "Region": "Asia"
+        },
+        {
+            "#": 119,
+            "Country": "Norway",
+            "Population 2026": 5652989,
+            "Region": "Europe"
+        },
+        {
+            "#": 120,
+            "Country": "Finland",
+            "Population 2026": 5621739,
+            "Region": "Europe"
+        },
+        {
+            "#": 121,
+            "Country": "Mauritania",
+            "Population 2026": 5461319,
+            "Region": "Africa"
+        },
+        {
+            "#": 122,
+            "Country": "Slovakia",
+            "Population 2026": 5451342,
+            "Region": "Europe"
+        },
+        {
+            "#": 123,
+            "Country": "Ireland",
+            "Population 2026": 5356950,
+            "Region": "Europe"
+        },
+        {
+            "#": 124,
+            "Country": "New Zealand",
+            "Population 2026": 5287479,
+            "Region": "Oceania"
+        },
+        {
+            "#": 125,
+            "Country": "Costa Rica",
+            "Population 2026": 5174789,
+            "Region": "Latin America"
+        },
+        {
+            "#": 126,
+            "Country": "Kuwait",
+            "Population 2026": 5102773,
+            "Region": "Asia"
+        },
+        {
+            "#": 127,
+            "Country": "Panama",
+            "Population 2026": 4625718,
+            "Region": "Latin America"
+        },
+        {
+            "#": 128,
+            "Country": "Croatia",
+            "Population 2026": 3822345,
+            "Region": "Europe"
+        },
+        {
+            "#": 129,
+            "Country": "Georgia",
+            "Population 2026": 3804642,
+            "Region": "Asia"
+        },
+        {
+            "#": 130,
+            "Country": "Eritrea",
+            "Population 2026": 3682669,
+            "Region": "Africa"
+        },
+        {
+            "#": 131,
+            "Country": "Mongolia",
+            "Population 2026": 3556798,
+            "Region": "Asia"
+        },
+        {
+            "#": 132,
+            "Country": "Uruguay",
+            "Population 2026": 3382537,
+            "Region": "Latin America"
+        },
+        {
+            "#": 133,
+            "Country": "Qatar",
+            "Population 2026": 3173559,
+            "Region": "Asia"
+        },
+        {
+            "#": 134,
+            "Country": "Namibia",
+            "Population 2026": 3153246,
+            "Region": "Africa"
+        },
+        {
+            "#": 135,
+            "Country": "Bosnia and Herzegovina",
+            "Population 2026": 3114242,
+            "Region": "Europe"
+        },
+        {
+            "#": 136,
+            "Country": "Moldova",
+            "Population 2026": 2961253,
+            "Region": "Europe"
+        },
+        {
+            "#": 137,
+            "Country": "Armenia",
+            "Population 2026": 2930915,
+            "Region": "Asia"
+        },
+        {
+            "#": 138,
+            "Country": "Gambia",
+            "Population 2026": 2884079,
+            "Region": "Africa"
+        },
+        {
+            "#": 139,
+            "Country": "Jamaica",
+            "Population 2026": 2833403,
+            "Region": "Latin America"
+        },
+        {
+            "#": 140,
+            "Country": "Lithuania",
+            "Population 2026": 2797338,
+            "Region": "Europe"
+        },
+        {
+            "#": 141,
+            "Country": "Albania",
+            "Population 2026": 2751025,
+            "Region": "Europe"
+        },
+        {
+            "#": 142,
+            "Country": "Gabon",
+            "Population 2026": 2647399,
+            "Region": "Africa"
+        },
+        {
+            "#": 143,
+            "Country": "Botswana",
+            "Population 2026": 2603388,
+            "Region": "Africa"
+        },
+        {
+            "#": 144,
+            "Country": "Lesotho",
+            "Population 2026": 2389336,
+            "Region": "Africa"
+        },
+        {
+            "#": 145,
+            "Country": "Guinea-Bissau",
+            "Population 2026": 2297808,
+            "Region": "Africa"
+        },
+        {
+            "#": 146,
+            "Country": "Slovenia",
+            "Population 2026": 2114573,
+            "Region": "Europe"
+        },
+        {
+            "#": 147,
+            "Country": "Equatorial Guinea",
+            "Population 2026": 1984468,
+            "Region": "Africa"
+        },
+        {
+            "#": 148,
+            "Country": "Latvia",
+            "Population 2026": 1835935,
+            "Region": "Europe"
+        },
+        {
+            "#": 149,
+            "Country": "North Macedonia",
+            "Population 2026": 1804063,
+            "Region": "Europe"
+        },
+        {
+            "#": 150,
+            "Country": "Bahrain",
+            "Population 2026": 1675572,
+            "Region": "Asia"
+        },
+        {
+            "#": 151,
+            "Country": "Trinidad and Tobago",
+            "Population 2026": 1513268,
+            "Region": "Latin America"
+        },
+        {
+            "#": 152,
+            "Country": "Timor-Leste",
+            "Population 2026": 1436923,
+            "Region": "Asia"
+        },
+        {
+            "#": 153,
+            "Country": "Cyprus",
+            "Population 2026": 1382334,
+            "Region": "Asia"
+        },
+        {
+            "#": 154,
+            "Country": "Estonia",
+            "Population 2026": 1331062,
+            "Region": "Europe"
+        },
+        {
+            "#": 155,
+            "Country": "Eswatini",
+            "Population 2026": 1269859,
+            "Region": "Africa"
+        },
+        {
+            "#": 156,
+            "Country": "Mauritius",
+            "Population 2026": 1265059,
+            "Region": "Africa"
+        },
+        {
+            "#": 157,
+            "Country": "Djibouti",
+            "Population 2026": 1199459,
+            "Region": "Africa"
+        },
+        {
+            "#": 158,
+            "Country": "Fiji",
+            "Population 2026": 937282,
+            "Region": "Oceania"
+        },
+        {
+            "#": 159,
+            "Country": "Comoros",
+            "Population 2026": 899010,
+            "Region": "Africa"
+        },
+        {
+            "#": 160,
+            "Country": "Solomon Islands",
+            "Population 2026": 858288,
+            "Region": "Oceania"
+        },
+        {
+            "#": 161,
+            "Country": "Guyana",
+            "Population 2026": 840890,
+            "Region": "Latin America"
+        },
+        {
+            "#": 162,
+            "Country": "Bhutan",
+            "Population 2026": 802214,
+            "Region": "Asia"
+        },
+        {
+            "#": 163,
+            "Country": "Luxembourg",
+            "Population 2026": 687448,
+            "Region": "Europe"
+        },
+        {
+            "#": 164,
+            "Country": "Suriname",
+            "Population 2026": 645256,
+            "Region": "Latin America"
+        },
+        {
+            "#": 165,
+            "Country": "Montenegro",
+            "Population 2026": 626233,
+            "Region": "Europe"
+        },
+        {
+            "#": 166,
+            "Country": "Malta",
+            "Population 2026": 549011,
+            "Region": "Europe"
+        },
+        {
+            "#": 167,
+            "Country": "Maldives",
+            "Population 2026": 531517,
+            "Region": "Asia"
+        },
+        {
+            "#": 168,
+            "Country": "Cabo Verde",
+            "Population 2026": 529630,
+            "Region": "Africa"
+        },
+        {
+            "#": 169,
+            "Country": "Brunei",
+            "Population 2026": 469775,
+            "Region": "Asia"
+        },
+        {
+            "#": 170,
+            "Country": "Belize",
+            "Population 2026": 428644,
+            "Region": "Latin America"
+        },
+        {
+            "#": 171,
+            "Country": "Bahamas",
+            "Population 2026": 404628,
+            "Region": "Latin America"
+        },
+        {
+            "#": 172,
+            "Country": "Iceland",
+            "Population 2026": 402329,
+            "Region": "Europe"
+        },
+        {
+            "#": 173,
+            "Country": "Vanuatu",
+            "Population 2026": 342564,
+            "Region": "Oceania"
+        },
+        {
+            "#": 174,
+            "Country": "Barbados",
+            "Population 2026": 282724,
+            "Region": "Latin America"
+        },
+        {
+            "#": 175,
+            "Country": "Sao Tome & Principe",
+            "Population 2026": 244994,
+            "Region": "Africa"
+        },
+        {
+            "#": 176,
+            "Country": "Samoa",
+            "Population 2026": 220528,
+            "Region": "Oceania"
+        },
+        {
+            "#": 177,
+            "Country": "Saint Lucia",
+            "Population 2026": 180488,
+            "Region": "Latin America"
+        },
+        {
+            "#": 178,
+            "Country": "Kiribati",
+            "Population 2026": 138445,
+            "Region": "Oceania"
+        },
+        {
+            "#": 179,
+            "Country": "Seychelles",
+            "Population 2026": 134959,
+            "Region": "Africa"
+        },
+        {
+            "#": 180,
+            "Country": "Grenada",
+            "Population 2026": 117362,
+            "Region": "Latin America"
+        },
+        {
+            "#": 181,
+            "Country": "Micronesia",
+            "Population 2026": 114183,
+            "Region": "Oceania"
+        },
+        {
+            "#": 182,
+            "Country": "Tonga",
+            "Population 2026": 103291,
+            "Region": "Oceania"
+        },
+        {
+            "#": 183,
+            "Country": "St. Vincent & Grenadines",
+            "Population 2026": 99245,
+            "Region": "Latin America"
+        },
+        {
+            "#": 184,
+            "Country": "Antigua and Barbuda",
+            "Population 2026": 94626,
+            "Region": "Latin America"
+        },
+        {
+            "#": 185,
+            "Country": "Andorra",
+            "Population 2026": 83753,
+            "Region": "Europe"
+        },
+        {
+            "#": 186,
+            "Country": "Dominica",
+            "Population 2026": 65511,
+            "Region": "Latin America"
+        },
+        {
+            "#": 187,
+            "Country": "Saint Kitts & Nevis",
+            "Population 2026": 46992,
+            "Region": "Latin America"
+        },
+        {
+            "#": 188,
+            "Country": "Liechtenstein",
+            "Population 2026": 40368,
+            "Region": "Europe"
+        },
+        {
+            "#": 189,
+            "Country": "Monaco",
+            "Population 2026": 38087,
+            "Region": "Europe"
+        },
+        {
+            "#": 190,
+            "Country": "Marshall Islands",
+            "Population 2026": 35075,
+            "Region": "Oceania"
+        },
+        {
+            "#": 191,
+            "Country": "San Marino",
+            "Population 2026": 33605,
+            "Region": "Europe"
+        },
+        {
+            "#": 192,
+            "Country": "Palau",
+            "Population 2026": 17614,
+            "Region": "Oceania"
+        },
+        {
+            "#": 193,
+            "Country": "Nauru",
+            "Population 2026": 12101,
+            "Region": "Oceania"
+        },
+        {
+            "#": 194,
+            "Country": "Tuvalu",
+            "Population 2026": 9362,
+            "Region": "Oceania"
+        },
+        {
+            "#": 195,
+            "Country": "Holy See",
+            "Population 2026": 506,
+            "Region": "Europe"
+        }
+    ],
+    "https://www.worldometers.info/world-population": [
+        {
+            "Year (July 1)": 2026,
+            "Population": 8300678395,
+            "Yearly % Change": "0.84%",
+            "Yearly Change": 69065325,
+            "Median Age": 31.1,
+            "Fertility Rate": 2.23,
+            "Density (P/Km\u00b2)": 56
+        },
+        {
+            "Year (July 1)": 2025,
+            "Population": 8231613070,
+            "Yearly % Change": "0.85%",
+            "Yearly Change": 69640498,
+            "Median Age": 30.9,
+            "Fertility Rate": 2.24,
+            "Density (P/Km\u00b2)": 55
+        },
+        {
+            "Year (July 1)": 2024,
+            "Population": 8161972572,
+            "Yearly % Change": "0.87%",
+            "Yearly Change": 70237642,
+            "Median Age": 30.6,
+            "Fertility Rate": 2.25,
+            "Density (P/Km\u00b2)": 55
+        },
+        {
+            "Year (July 1)": 2023,
+            "Population": 8091734930,
+            "Yearly % Change": "0.88%",
+            "Yearly Change": 70327738,
+            "Median Age": 30.4,
+            "Fertility Rate": 2.25,
+            "Density (P/Km\u00b2)": 54
+        },
+        {
+            "Year (July 1)": 2022,
+            "Population": 8021407192,
+            "Yearly % Change": "0.84%",
+            "Yearly Change": 66958801,
+            "Median Age": 30.1,
+            "Fertility Rate": 2.27,
+            "Density (P/Km\u00b2)": 54
+        },
+        {
+            "Year (July 1)": 2021,
+            "Population": 7954448391,
+            "Yearly % Change": "0.86%",
+            "Yearly Change": 67447099,
+            "Median Age": 29.8,
+            "Fertility Rate": 2.29,
+            "Density (P/Km\u00b2)": 53
+        },
+        {
+            "Year (July 1)": 2020,
+            "Population": 7887001292,
+            "Yearly % Change": "1.09%",
+            "Yearly Change": 83301884,
+            "Median Age": 29.6,
+            "Fertility Rate": 2.32,
+            "Density (P/Km\u00b2)": 53
+        },
+        {
+            "Year (July 1)": 2015,
+            "Population": 7470491872,
+            "Yearly % Change": "1.25%",
+            "Yearly Change": 89751945,
+            "Median Age": 28.3,
+            "Fertility Rate": 2.54,
+            "Density (P/Km\u00b2)": 50
+        },
+        {
+            "Year (July 1)": 2010,
+            "Population": 7021732148,
+            "Yearly % Change": "1.29%",
+            "Yearly Change": 86952403,
+            "Median Age": 27.2,
+            "Fertility Rate": 2.6,
+            "Density (P/Km\u00b2)": 47
+        },
+        {
+            "Year (July 1)": 2005,
+            "Population": 6586970132,
+            "Yearly % Change": "1.31%",
+            "Yearly Change": 83053428,
+            "Median Age": 26.1,
+            "Fertility Rate": 2.63,
+            "Density (P/Km\u00b2)": 44
+        },
+        {
+            "Year (July 1)": 2000,
+            "Population": 6171702993,
+            "Yearly % Change": "1.39%",
+            "Yearly Change": 82564802,
+            "Median Age": 25.1,
+            "Fertility Rate": 2.75,
+            "Density (P/Km\u00b2)": 41
+        },
+        {
+            "Year (July 1)": 1995,
+            "Population": 5758878982,
+            "Yearly % Change": "1.57%",
+            "Yearly Change": 86215174,
+            "Median Age": 24.0,
+            "Fertility Rate": 2.89,
+            "Density (P/Km\u00b2)": 39
+        },
+        {
+            "Year (July 1)": 1990,
+            "Population": 5327803110,
+            "Yearly % Change": "1.82%",
+            "Yearly Change": 91771929,
+            "Median Age": 22.9,
+            "Fertility Rate": 3.31,
+            "Density (P/Km\u00b2)": 36
+        },
+        {
+            "Year (July 1)": 1985,
+            "Population": 4868943465,
+            "Yearly % Change": "1.83%",
+            "Yearly Change": 84267446,
+            "Median Age": 22.0,
+            "Fertility Rate": 3.52,
+            "Density (P/Km\u00b2)": 33
+        },
+        {
+            "Year (July 1)": 1980,
+            "Population": 4447606236,
+            "Yearly % Change": "1.79%",
+            "Yearly Change": 75374192,
+            "Median Age": 21.5,
+            "Fertility Rate": 3.74,
+            "Density (P/Km\u00b2)": 30
+        },
+        {
+            "Year (July 1)": 1975,
+            "Population": 4070735277,
+            "Yearly % Change": "1.96%",
+            "Yearly Change": 75210297,
+            "Median Age": 20.7,
+            "Fertility Rate": 4.08,
+            "Density (P/Km\u00b2)": 27
+        },
+        {
+            "Year (July 1)": 1970,
+            "Population": 3694683794,
+            "Yearly % Change": "2.07%",
+            "Yearly Change": 72030018,
+            "Median Age": 20.3,
+            "Fertility Rate": 4.83,
+            "Density (P/Km\u00b2)": 25
+        },
+        {
+            "Year (July 1)": 1965,
+            "Population": 3334533703,
+            "Yearly % Change": "2.03%",
+            "Yearly Change": 63812562,
+            "Median Age": 20.8,
+            "Fertility Rate": 5.07,
+            "Density (P/Km\u00b2)": 22
+        },
+        {
+            "Year (July 1)": 1960,
+            "Population": 3015470894,
+            "Yearly % Change": "1.93%",
+            "Yearly Change": 55051420,
+            "Median Age": 21.5,
+            "Fertility Rate": 4.7,
+            "Density (P/Km\u00b2)": 20
+        },
+        {
+            "Year (July 1)": 1955,
+            "Population": 2740213792,
+            "Yearly % Change": "1.91%",
+            "Yearly Change": 49424189,
+            "Median Age": 21.8,
+            "Fertility Rate": 5.0,
+            "Density (P/Km\u00b2)": 18
+        }
+    ],
+    "https://www.worldometers.info/world-population/": [
+        {
+            "Year (July 1)": 2026,
+            "Population": 8300678395,
+            "Yearly % Change": "0.84%",
+            "Yearly Change": 69065325,
+            "Median Age": 31.1,
+            "Fertility Rate": 2.23,
+            "Density (P/Km\u00b2)": 56
+        },
+        {
+            "Year (July 1)": 2025,
+            "Population": 8231613070,
+            "Yearly % Change": "0.85%",
+            "Yearly Change": 69640498,
+            "Median Age": 30.9,
+            "Fertility Rate": 2.24,
+            "Density (P/Km\u00b2)": 55
+        },
+        {
+            "Year (July 1)": 2024,
+            "Population": 8161972572,
+            "Yearly % Change": "0.87%",
+            "Yearly Change": 70237642,
+            "Median Age": 30.6,
+            "Fertility Rate": 2.25,
+            "Density (P/Km\u00b2)": 55
+        },
+        {
+            "Year (July 1)": 2023,
+            "Population": 8091734930,
+            "Yearly % Change": "0.88%",
+            "Yearly Change": 70327738,
+            "Median Age": 30.4,
+            "Fertility Rate": 2.25,
+            "Density (P/Km\u00b2)": 54
+        },
+        {
+            "Year (July 1)": 2022,
+            "Population": 8021407192,
+            "Yearly % Change": "0.84%",
+            "Yearly Change": 66958801,
+            "Median Age": 30.1,
+            "Fertility Rate": 2.27,
+            "Density (P/Km\u00b2)": 54
+        },
+        {
+            "Year (July 1)": 2021,
+            "Population": 7954448391,
+            "Yearly % Change": "0.86%",
+            "Yearly Change": 67447099,
+            "Median Age": 29.8,
+            "Fertility Rate": 2.29,
+            "Density (P/Km\u00b2)": 53
+        },
+        {
+            "Year (July 1)": 2020,
+            "Population": 7887001292,
+            "Yearly % Change": "1.09%",
+            "Yearly Change": 83301884,
+            "Median Age": 29.6,
+            "Fertility Rate": 2.32,
+            "Density (P/Km\u00b2)": 53
+        },
+        {
+            "Year (July 1)": 2015,
+            "Population": 7470491872,
+            "Yearly % Change": "1.25%",
+            "Yearly Change": 89751945,
+            "Median Age": 28.3,
+            "Fertility Rate": 2.54,
+            "Density (P/Km\u00b2)": 50
+        },
+        {
+            "Year (July 1)": 2010,
+            "Population": 7021732148,
+            "Yearly % Change": "1.29%",
+            "Yearly Change": 86952403,
+            "Median Age": 27.2,
+            "Fertility Rate": 2.6,
+            "Density (P/Km\u00b2)": 47
+        },
+        {
+            "Year (July 1)": 2005,
+            "Population": 6586970132,
+            "Yearly % Change": "1.31%",
+            "Yearly Change": 83053428,
+            "Median Age": 26.1,
+            "Fertility Rate": 2.63,
+            "Density (P/Km\u00b2)": 44
+        },
+        {
+            "Year (July 1)": 2000,
+            "Population": 6171702993,
+            "Yearly % Change": "1.39%",
+            "Yearly Change": 82564802,
+            "Median Age": 25.1,
+            "Fertility Rate": 2.75,
+            "Density (P/Km\u00b2)": 41
+        },
+        {
+            "Year (July 1)": 1995,
+            "Population": 5758878982,
+            "Yearly % Change": "1.57%",
+            "Yearly Change": 86215174,
+            "Median Age": 24.0,
+            "Fertility Rate": 2.89,
+            "Density (P/Km\u00b2)": 39
+        },
+        {
+            "Year (July 1)": 1990,
+            "Population": 5327803110,
+            "Yearly % Change": "1.82%",
+            "Yearly Change": 91771929,
+            "Median Age": 22.9,
+            "Fertility Rate": 3.31,
+            "Density (P/Km\u00b2)": 36
+        },
+        {
+            "Year (July 1)": 1985,
+            "Population": 4868943465,
+            "Yearly % Change": "1.83%",
+            "Yearly Change": 84267446,
+            "Median Age": 22.0,
+            "Fertility Rate": 3.52,
+            "Density (P/Km\u00b2)": 33
+        },
+        {
+            "Year (July 1)": 1980,
+            "Population": 4447606236,
+            "Yearly % Change": "1.79%",
+            "Yearly Change": 75374192,
+            "Median Age": 21.5,
+            "Fertility Rate": 3.74,
+            "Density (P/Km\u00b2)": 30
+        },
+        {
+            "Year (July 1)": 1975,
+            "Population": 4070735277,
+            "Yearly % Change": "1.96%",
+            "Yearly Change": 75210297,
+            "Median Age": 20.7,
+            "Fertility Rate": 4.08,
+            "Density (P/Km\u00b2)": 27
+        },
+        {
+            "Year (July 1)": 1970,
+            "Population": 3694683794,
+            "Yearly % Change": "2.07%",
+            "Yearly Change": 72030018,
+            "Median Age": 20.3,
+            "Fertility Rate": 4.83,
+            "Density (P/Km\u00b2)": 25
+        },
+        {
+            "Year (July 1)": 1965,
+            "Population": 3334533703,
+            "Yearly % Change": "2.03%",
+            "Yearly Change": 63812562,
+            "Median Age": 20.8,
+            "Fertility Rate": 5.07,
+            "Density (P/Km\u00b2)": 22
+        },
+        {
+            "Year (July 1)": 1960,
+            "Population": 3015470894,
+            "Yearly % Change": "1.93%",
+            "Yearly Change": 55051420,
+            "Median Age": 21.5,
+            "Fertility Rate": 4.7,
+            "Density (P/Km\u00b2)": 20
+        },
+        {
+            "Year (July 1)": 1955,
+            "Population": 2740213792,
+            "Yearly % Change": "1.91%",
+            "Yearly Change": 49424189,
+            "Median Age": 21.8,
+            "Fertility Rate": 5.0,
+            "Density (P/Km\u00b2)": 18
+        }
+    ],
+    "https://www.worldometers.info/gdp/gdp-by-country/": [
+        {
+            "#": 1,
+            "Country": "United States",
+            "GDP": "$32.38 trillion",
+            "GDP (Full Value)": "$32,383,920,000,000",
+            "GDP Growth": "2.32%",
+            "GDP per Capita": "$94,430"
+        },
+        {
+            "#": 2,
+            "Country": "China",
+            "GDP": "$20.85 trillion",
+            "GDP (Full Value)": "$20,851,593,000,000",
+            "GDP Growth": "4.41%",
+            "GDP per Capita": "$14,874"
+        },
+        {
+            "#": 3,
+            "Country": "Germany",
+            "GDP": "$5.45 trillion",
+            "GDP (Full Value)": "$5,452,858,000,000",
+            "GDP Growth": "0.79%",
+            "GDP per Capita": "$65,303"
+        },
+        {
+            "#": 4,
+            "Country": "Japan",
+            "GDP": "$4.38 trillion",
+            "GDP (Full Value)": "$4,379,253,000,000",
+            "GDP Growth": "0.72%",
+            "GDP per Capita": "$35,703"
+        },
+        {
+            "#": 5,
+            "Country": "United Kingdom",
+            "GDP": "$4.26 trillion",
+            "GDP (Full Value)": "$4,264,794,000,000",
+            "GDP Growth": "0.80%",
+            "GDP per Capita": "$61,056"
+        },
+        {
+            "#": 6,
+            "Country": "India",
+            "GDP": "$4.15 trillion",
+            "GDP (Full Value)": "$4,153,191,000,000",
+            "GDP Growth": "6.48%",
+            "GDP per Capita": "$2,813"
+        },
+        {
+            "#": 7,
+            "Country": "France",
+            "GDP": "$3.6 trillion",
+            "GDP (Full Value)": "$3,596,094,000,000",
+            "GDP Growth": "0.86%",
+            "GDP per Capita": "$52,083"
+        },
+        {
+            "#": 8,
+            "Country": "Italy",
+            "GDP": "$2.74 trillion",
+            "GDP (Full Value)": "$2,738,164,000,000",
+            "GDP Growth": "0.52%",
+            "GDP per Capita": "$46,505"
+        },
+        {
+            "#": 9,
+            "Country": "Russia",
+            "GDP": "$2.66 trillion",
+            "GDP (Full Value)": "$2,656,452,000,000",
+            "GDP Growth": "1.09%",
+            "GDP per Capita": "$18,525"
+        },
+        {
+            "#": 10,
+            "Country": "Brazil",
+            "GDP": "$2.64 trillion",
+            "GDP (Full Value)": "$2,635,912,000,000",
+            "GDP Growth": "1.91%",
+            "GDP per Capita": "$12,313"
+        },
+        {
+            "#": 11,
+            "Country": "Canada",
+            "GDP": "$2.51 trillion",
+            "GDP (Full Value)": "$2,507,340,000,000",
+            "GDP Growth": "1.50%",
+            "GDP per Capita": "$60,305"
+        },
+        {
+            "#": 12,
+            "Country": "Australia",
+            "GDP": "$2.12 trillion",
+            "GDP (Full Value)": "$2,123,963,000,000",
+            "GDP Growth": "2.01%",
+            "GDP per Capita": "$75,648"
+        },
+        {
+            "#": 13,
+            "Country": "Mexico",
+            "GDP": "$2.12 trillion",
+            "GDP (Full Value)": "$2,120,855,000,000",
+            "GDP Growth": "1.64%",
+            "GDP per Capita": "$15,779"
+        },
+        {
+            "#": 14,
+            "Country": "Spain",
+            "GDP": "$2.09 trillion",
+            "GDP (Full Value)": "$2,091,222,000,000",
+            "GDP Growth": "2.09%",
+            "GDP per Capita": "$41,563"
+        },
+        {
+            "#": 15,
+            "Country": "South Korea",
+            "GDP": "$1.93 trillion",
+            "GDP (Full Value)": "$1,931,008,000,000",
+            "GDP Growth": "1.86%",
+            "GDP per Capita": "$37,412"
+        },
+        {
+            "#": 16,
+            "Country": "Turkey",
+            "GDP": "$1.64 trillion",
+            "GDP (Full Value)": "$1,640,223,000,000",
+            "GDP Growth": "3.37%",
+            "GDP per Capita": "$19,018"
+        },
+        {
+            "#": 17,
+            "Country": "Indonesia",
+            "GDP": "$1.54 trillion",
+            "GDP (Full Value)": "$1,539,872,000,000",
+            "GDP Growth": "4.95%",
+            "GDP per Capita": "$5,362"
+        },
+        {
+            "#": 18,
+            "Country": "Netherlands",
+            "GDP": "$1.45 trillion",
+            "GDP (Full Value)": "$1,449,704,000,000",
+            "GDP Growth": "1.23%",
+            "GDP per Capita": "$79,918"
+        },
+        {
+            "#": 19,
+            "Country": "Saudi Arabia",
+            "GDP": "$1.39 trillion",
+            "GDP (Full Value)": "$1,388,676,000,000",
+            "GDP Growth": "3.12%",
+            "GDP per Capita": "$37,811"
+        },
+        {
+            "#": 20,
+            "Country": "Switzerland",
+            "GDP": "$1.15 trillion",
+            "GDP (Full Value)": "$1,146,911,000,000",
+            "GDP Growth": "1.34%",
+            "GDP per Capita": "$126,177"
+        },
+        {
+            "#": 21,
+            "Country": "Poland",
+            "GDP": "$1.13 trillion",
+            "GDP (Full Value)": "$1,134,248,000,000",
+            "GDP Growth": "3.32%",
+            "GDP per Capita": "$31,336"
+        },
+        {
+            "#": 22,
+            "Country": "Taiwan",
+            "GDP": "$976.72 billion",
+            "GDP (Full Value)": "$976,719,000,000",
+            "GDP Growth": "5.18%",
+            "GDP per Capita": "$42,103"
+        },
+        {
+            "#": 23,
+            "Country": "Ireland",
+            "GDP": "$779.38 billion",
+            "GDP (Full Value)": "$779,381,000,000",
+            "GDP Growth": "2.52%",
+            "GDP per Capita": "$140,186"
+        },
+        {
+            "#": 24,
+            "Country": "Belgium",
+            "GDP": "$776.73 billion",
+            "GDP (Full Value)": "$776,730,000,000",
+            "GDP Growth": "0.66%",
+            "GDP per Capita": "$65,112"
+        },
+        {
+            "#": 25,
+            "Country": "Sweden",
+            "GDP": "$760.48 billion",
+            "GDP (Full Value)": "$760,481,000,000",
+            "GDP Growth": "1.96%",
+            "GDP per Capita": "$70,676"
+        },
+        {
+            "#": 26,
+            "Country": "Israel",
+            "GDP": "$719.85 billion",
+            "GDP (Full Value)": "$719,848,000,000",
+            "GDP Growth": "3.53%",
+            "GDP per Capita": "$69,804"
+        },
+        {
+            "#": 27,
+            "Country": "Argentina",
+            "GDP": "$688.38 billion",
+            "GDP (Full Value)": "$688,378,000,000",
+            "GDP Growth": "3.50%",
+            "GDP per Capita": "$14,357"
+        },
+        {
+            "#": 28,
+            "Country": "Singapore",
+            "GDP": "$659.57 billion",
+            "GDP (Full Value)": "$659,572,000,000",
+            "GDP Growth": "3.51%",
+            "GDP per Capita": "$107,758"
+        },
+        {
+            "#": 29,
+            "Country": "Austria",
+            "GDP": "$623.72 billion",
+            "GDP (Full Value)": "$623,719,000,000",
+            "GDP Growth": "0.68%",
+            "GDP per Capita": "$67,761"
+        },
+        {
+            "#": 30,
+            "Country": "United Arab Emirates",
+            "GDP": "$621.55 billion",
+            "GDP (Full Value)": "$621,546,000,000",
+            "GDP Growth": "3.14%",
+            "GDP per Capita": "$54,214"
+        },
+        {
+            "#": 31,
+            "Country": "Norway",
+            "GDP": "$599.41 billion",
+            "GDP (Full Value)": "$599,406,000,000",
+            "GDP Growth": "1.48%",
+            "GDP per Capita": "$105,877"
+        },
+        {
+            "#": 32,
+            "Country": "Thailand",
+            "GDP": "$580 billion",
+            "GDP (Full Value)": "$579,996,000,000",
+            "GDP Growth": "1.50%",
+            "GDP per Capita": "$8,105"
+        },
+        {
+            "#": 33,
+            "Country": "Colombia",
+            "GDP": "$539.53 billion",
+            "GDP (Full Value)": "$539,530,000,000",
+            "GDP Growth": "2.34%",
+            "GDP per Capita": "$10,104"
+        },
+        {
+            "#": 34,
+            "Country": "Vietnam",
+            "GDP": "$527.27 billion",
+            "GDP (Full Value)": "$527,266,000,000",
+            "GDP Growth": "7.10%",
+            "GDP per Capita": "$5,115"
+        },
+        {
+            "#": 35,
+            "Country": "Malaysia",
+            "GDP": "$516.43 billion",
+            "GDP (Full Value)": "$516,428,000,000",
+            "GDP Growth": "4.70%",
+            "GDP per Capita": "$15,085"
+        },
+        {
+            "#": 36,
+            "Country": "Philippines",
+            "GDP": "$512.22 billion",
+            "GDP (Full Value)": "$512,222,000,000",
+            "GDP Growth": "4.07%",
+            "GDP per Capita": "$4,443"
+        },
+        {
+            "#": 37,
+            "Country": "Bangladesh",
+            "GDP": "$510.7 billion",
+            "GDP (Full Value)": "$510,705,000,000",
+            "GDP Growth": "4.69%",
+            "GDP per Capita": "$2,911"
+        },
+        {
+            "#": 38,
+            "Country": "Denmark",
+            "GDP": "$503.77 billion",
+            "GDP (Full Value)": "$503,772,000,000",
+            "GDP Growth": "2.00%",
+            "GDP per Capita": "$83,445"
+        },
+        {
+            "#": 39,
+            "Country": "Romania",
+            "GDP": "$480.83 billion",
+            "GDP (Full Value)": "$480,834,000,000",
+            "GDP Growth": "0.69%",
+            "GDP per Capita": "$25,693"
+        },
+        {
+            "#": 40,
+            "Country": "South Africa",
+            "GDP": "$479.96 billion",
+            "GDP (Full Value)": "$479,964,000,000",
+            "GDP Growth": "1.05%",
+            "GDP per Capita": "$7,503"
+        },
+        {
+            "#": 41,
+            "Country": "Hong Kong",
+            "GDP": "$450.14 billion",
+            "GDP (Full Value)": "$450,138,000,000",
+            "GDP Growth": "2.42%",
+            "GDP per Capita": "$59,640"
+        },
+        {
+            "#": 42,
+            "Country": "Czech Republic (Czechia)",
+            "GDP": "$432.6 billion",
+            "GDP (Full Value)": "$432,597,000,000",
+            "GDP Growth": "2.23%",
+            "GDP per Capita": "$39,795"
+        },
+        {
+            "#": 43,
+            "Country": "Egypt",
+            "GDP": "$429.64 billion",
+            "GDP (Full Value)": "$429,645,000,000",
+            "GDP Growth": "4.24%",
+            "GDP per Capita": "$3,904"
+        },
+        {
+            "#": 44,
+            "Country": "Chile",
+            "GDP": "$407.85 billion",
+            "GDP (Full Value)": "$407,850,000,000",
+            "GDP Growth": "2.40%",
+            "GDP per Capita": "$20,240"
+        },
+        {
+            "#": 45,
+            "Country": "Pakistan",
+            "GDP": "$407.79 billion (2025)",
+            "GDP (Full Value)": "$407,786,000,000",
+            "GDP Growth": "3.09%",
+            "GDP per Capita": "$1,696"
+        },
+        {
+            "#": 46,
+            "Country": "Peru",
+            "GDP": "$380.9 billion",
+            "GDP (Full Value)": "$380,900,000,000",
+            "GDP Growth": "2.82%",
+            "GDP per Capita": "$10,960"
+        },
+        {
+            "#": 47,
+            "Country": "Portugal",
+            "GDP": "$380.64 billion",
+            "GDP (Full Value)": "$380,637,000,000",
+            "GDP Growth": "1.93%",
+            "GDP per Capita": "$35,434"
+        },
+        {
+            "#": 48,
+            "Country": "Nigeria",
+            "GDP": "$377.37 billion",
+            "GDP (Full Value)": "$377,365,000,000",
+            "GDP Growth": "4.06%",
+            "GDP per Capita": "$1,556"
+        },
+        {
+            "#": 49,
+            "Country": "Kazakhstan",
+            "GDP": "$360.46 billion",
+            "GDP (Full Value)": "$360,456,000,000",
+            "GDP Growth": "4.61%",
+            "GDP per Capita": "$17,503"
+        },
+        {
+            "#": 50,
+            "Country": "Finland",
+            "GDP": "$337.67 billion",
+            "GDP (Full Value)": "$337,669,000,000",
+            "GDP Growth": "1.05%",
+            "GDP per Capita": "$60,130"
+        },
+        {
+            "#": 51,
+            "Country": "Algeria",
+            "GDP": "$317.17 billion",
+            "GDP (Full Value)": "$317,173,000,000",
+            "GDP Growth": "3.78%",
+            "GDP per Capita": "$6,628"
+        },
+        {
+            "#": 52,
+            "Country": "Greece",
+            "GDP": "$307.55 billion",
+            "GDP (Full Value)": "$307,554,000,000",
+            "GDP Growth": "1.80%",
+            "GDP per Capita": "$29,696"
+        },
+        {
+            "#": 53,
+            "Country": "Iran",
+            "GDP": "$300.29 billion",
+            "GDP (Full Value)": "$300,293,000,000",
+            "GDP Growth": "\u22126.07%",
+            "GDP per Capita": "$3,415"
+        },
+        {
+            "#": 54,
+            "Country": "New Zealand",
+            "GDP": "$278.64 billion",
+            "GDP (Full Value)": "$278,636,000,000",
+            "GDP Growth": "2.13%",
+            "GDP per Capita": "$52,023"
+        },
+        {
+            "#": 55,
+            "Country": "Hungary",
+            "GDP": "$271.12 billion",
+            "GDP (Full Value)": "$271,122,000,000",
+            "GDP Growth": "1.66%",
+            "GDP per Capita": "$28,430"
+        },
+        {
+            "#": 56,
+            "Country": "Iraq",
+            "GDP": "$264.78 billion",
+            "GDP (Full Value)": "$264,784,000,000",
+            "GDP Growth": "\u22126.77%",
+            "GDP per Capita": "$5,677"
+        },
+        {
+            "#": 57,
+            "Country": "Ukraine",
+            "GDP": "$225.34 billion",
+            "GDP (Full Value)": "$225,337,000,000",
+            "GDP Growth": "2.00%",
+            "GDP per Capita": "$6,980"
+        },
+        {
+            "#": 58,
+            "Country": "Qatar",
+            "GDP": "$217.42 billion",
+            "GDP (Full Value)": "$217,416,000,000",
+            "GDP Growth": "\u22128.65%",
+            "GDP per Capita": "$68,138"
+        },
+        {
+            "#": 59,
+            "Country": "Cuba",
+            "GDP": "$201.99 billion (UN, 2023)",
+            "GDP (Full Value)": "$201,985,998,168",
+            "GDP Growth": "\u22121.93%",
+            "GDP per Capita": "$18,329"
+        },
+        {
+            "#": 60,
+            "Country": "Morocco",
+            "GDP": "$194.33 billion",
+            "GDP (Full Value)": "$194,333,000,000",
+            "GDP Growth": "4.87%",
+            "GDP per Capita": "$5,107"
+        },
+        {
+            "#": 61,
+            "Country": "Uzbekistan",
+            "GDP": "$181.5 billion",
+            "GDP (Full Value)": "$181,502,000,000",
+            "GDP Growth": "6.47%",
+            "GDP per Capita": "$4,661"
+        },
+        {
+            "#": 62,
+            "Country": "Kuwait",
+            "GDP": "$172.92 billion",
+            "GDP (Full Value)": "$172,920,000,000",
+            "GDP Growth": "\u22120.56%",
+            "GDP per Capita": "$33,164"
+        },
+        {
+            "#": 63,
+            "Country": "Slovakia",
+            "GDP": "$168.9 billion",
+            "GDP (Full Value)": "$168,897,000,000",
+            "GDP Growth": "0.60%",
+            "GDP per Capita": "$31,242"
+        },
+        {
+            "#": 64,
+            "Country": "Angola",
+            "GDP": "$152.35 billion",
+            "GDP (Full Value)": "$152,354,000,000",
+            "GDP Growth": "2.29%",
+            "GDP per Capita": "$3,754"
+        },
+        {
+            "#": 65,
+            "Country": "Bulgaria",
+            "GDP": "$148.12 billion",
+            "GDP (Full Value)": "$148,121,000,000",
+            "GDP Growth": "2.77%",
+            "GDP per Capita": "$23,848"
+        },
+        {
+            "#": 66,
+            "Country": "Kenya",
+            "GDP": "$147.26 billion",
+            "GDP (Full Value)": "$147,265,000,000",
+            "GDP Growth": "4.47%",
+            "GDP per Capita": "$2,714"
+        },
+        {
+            "#": 67,
+            "Country": "Ecuador",
+            "GDP": "$138.19 billion",
+            "GDP (Full Value)": "$138,194,000,000",
+            "GDP Growth": "2.51%",
+            "GDP per Capita": "$7,575"
+        },
+        {
+            "#": 68,
+            "Country": "Dominican Republic",
+            "GDP": "$136.15 billion",
+            "GDP (Full Value)": "$136,148,000,000",
+            "GDP Growth": "3.72%",
+            "GDP per Capita": "$12,406"
+        },
+        {
+            "#": 69,
+            "Country": "Puerto Rico",
+            "GDP": "$129.01 billion",
+            "GDP (Full Value)": "$129,012,000,000",
+            "GDP Growth": "\u22120.10%",
+            "GDP per Capita": "$40,650"
+        },
+        {
+            "#": 70,
+            "Country": "Guatemala",
+            "GDP": "$128.89 billion",
+            "GDP (Full Value)": "$128,886,000,000",
+            "GDP Growth": "3.94%",
+            "GDP per Capita": "$6,810"
+        },
+        {
+            "#": 71,
+            "Country": "DR Congo",
+            "GDP": "$123.41 billion",
+            "GDP (Full Value)": "$123,406,000,000",
+            "GDP Growth": "5.90%",
+            "GDP per Capita": "$1,122"
+        },
+        {
+            "#": 72,
+            "Country": "Ethiopia",
+            "GDP": "$121.53 billion",
+            "GDP (Full Value)": "$121,527,000,000",
+            "GDP Growth": "9.20%",
+            "GDP per Capita": "$1,081"
+        },
+        {
+            "#": 73,
+            "Country": "Ghana",
+            "GDP": "$118.29 billion",
+            "GDP (Full Value)": "$118,293,000,000",
+            "GDP Growth": "4.75%",
+            "GDP per Capita": "$3,314"
+        },
+        {
+            "#": 74,
+            "Country": "Oman",
+            "GDP": "$117.18 billion",
+            "GDP (Full Value)": "$117,176,000,000",
+            "GDP Growth": "3.45%",
+            "GDP per Capita": "$21,645"
+        },
+        {
+            "#": 75,
+            "Country": "Croatia",
+            "GDP": "$116.57 billion",
+            "GDP (Full Value)": "$116,574,000,000",
+            "GDP Growth": "2.64%",
+            "GDP per Capita": "$30,030"
+        },
+        {
+            "#": 76,
+            "Country": "C\u00f4te d'Ivoire",
+            "GDP": "$112.11 billion",
+            "GDP (Full Value)": "$112,115,000,000",
+            "GDP Growth": "6.20%",
+            "GDP per Capita": "$3,313"
+        },
+        {
+            "#": 77,
+            "Country": "Serbia",
+            "GDP": "$112.03 billion",
+            "GDP (Full Value)": "$112,025,000,000",
+            "GDP Growth": "2.83%",
+            "GDP per Capita": "$17,252"
+        },
+        {
+            "#": 78,
+            "Country": "Venezuela",
+            "GDP": "$111.3 billion",
+            "GDP (Full Value)": "$111,303,000,000",
+            "GDP Growth": "4.04%",
+            "GDP per Capita": "$4,140"
+        },
+        {
+            "#": 79,
+            "Country": "Luxembourg",
+            "GDP": "$110.42 billion",
+            "GDP (Full Value)": "$110,417,000,000",
+            "GDP Growth": "1.59%",
+            "GDP per Capita": "$158,733"
+        },
+        {
+            "#": 80,
+            "Country": "Costa Rica",
+            "GDP": "$109.93 billion",
+            "GDP (Full Value)": "$109,931,000,000",
+            "GDP Growth": "3.56%",
+            "GDP per Capita": "$20,299"
+        },
+        {
+            "#": 81,
+            "Country": "Lithuania",
+            "GDP": "$105.91 billion",
+            "GDP (Full Value)": "$105,907,000,000",
+            "GDP Growth": "2.91%",
+            "GDP per Capita": "$36,545"
+        },
+        {
+            "#": 82,
+            "Country": "Belarus",
+            "GDP": "$102.04 billion",
+            "GDP (Full Value)": "$102,042,000,000",
+            "GDP Growth": "1.22%",
+            "GDP per Capita": "$11,286"
+        },
+        {
+            "#": 83,
+            "Country": "Sri Lanka",
+            "GDP": "$98.96 billion (2024)",
+            "GDP (Full Value)": "$98,964,000,000",
+            "GDP Growth": "5.01%",
+            "GDP per Capita": "$4,516"
+        },
+        {
+            "#": 84,
+            "Country": "Uruguay",
+            "GDP": "$96.09 billion",
+            "GDP (Full Value)": "$96,092,000,000",
+            "GDP Growth": "1.80%",
+            "GDP per Capita": "$27,608"
+        },
+        {
+            "#": 85,
+            "Country": "Panama",
+            "GDP": "$95.02 billion",
+            "GDP (Full Value)": "$95,024,000,000",
+            "GDP Growth": "3.84%",
+            "GDP per Capita": "$20,564"
+        },
+        {
+            "#": 86,
+            "Country": "Tanzania",
+            "GDP": "$94.89 billion",
+            "GDP (Full Value)": "$94,889,000,000",
+            "GDP Growth": "5.94%",
+            "GDP per Capita": "$1,362"
+        },
+        {
+            "#": 87,
+            "Country": "Slovenia",
+            "GDP": "$86.73 billion",
+            "GDP (Full Value)": "$86,732,000,000",
+            "GDP Growth": "2.00%",
+            "GDP per Capita": "$40,630"
+        },
+        {
+            "#": 88,
+            "Country": "Myanmar",
+            "GDP": "$83.83 billion",
+            "GDP (Full Value)": "$83,832,000,000",
+            "GDP Growth": "3.00%",
+            "GDP per Capita": "$1,519"
+        },
+        {
+            "#": 89,
+            "Country": "Turkmenistan",
+            "GDP": "$83.06 billion",
+            "GDP (Full Value)": "$83,065,000,000",
+            "GDP Growth": "2.60%",
+            "GDP per Capita": "$12,300"
+        },
+        {
+            "#": 90,
+            "Country": "Bolivia",
+            "GDP": "$80.74 billion",
+            "GDP (Full Value)": "$80,743,000,000",
+            "GDP Growth": "\u22123.29%",
+            "GDP per Capita": "$6,333"
+        },
+        {
+            "#": 91,
+            "Country": "Azerbaijan",
+            "GDP": "$78.37 billion",
+            "GDP (Full Value)": "$78,372,000,000",
+            "GDP Growth": "2.22%",
+            "GDP per Capita": "$7,467"
+        },
+        {
+            "#": 92,
+            "Country": "Uganda",
+            "GDP": "$73.37 billion",
+            "GDP (Full Value)": "$73,370,000,000",
+            "GDP Growth": "7.51%",
+            "GDP per Capita": "$1,476"
+        },
+        {
+            "#": 93,
+            "Country": "Cameroon",
+            "GDP": "$65.14 billion",
+            "GDP (Full Value)": "$65,135,000,000",
+            "GDP Growth": "3.34%",
+            "GDP per Capita": "$2,125"
+        },
+        {
+            "#": 94,
+            "Country": "Jordan",
+            "GDP": "$64.91 billion",
+            "GDP (Full Value)": "$64,909,000,000",
+            "GDP Growth": "2.75%",
+            "GDP per Capita": "$5,601"
+        },
+        {
+            "#": 95,
+            "Country": "Tunisia",
+            "GDP": "$60.74 billion",
+            "GDP (Full Value)": "$60,745,000,000",
+            "GDP Growth": "2.11%",
+            "GDP per Capita": "$4,893"
+        },
+        {
+            "#": 96,
+            "Country": "Paraguay",
+            "GDP": "$60.54 billion",
+            "GDP (Full Value)": "$60,542,000,000",
+            "GDP Growth": "4.20%",
+            "GDP per Capita": "$9,372"
+        },
+        {
+            "#": 97,
+            "Country": "Zimbabwe",
+            "GDP": "$56.71 billion",
+            "GDP (Full Value)": "$56,713,000,000",
+            "GDP Growth": "4.97%",
+            "GDP per Capita": "$3,199"
+        },
+        {
+            "#": 98,
+            "Country": "Macao",
+            "GDP": "$54.23 billion",
+            "GDP (Full Value)": "$54,228,000,000",
+            "GDP Growth": "2.99%",
+            "GDP per Capita": "$76,446"
+        },
+        {
+            "#": 99,
+            "Country": "Latvia",
+            "GDP": "$53.69 billion",
+            "GDP (Full Value)": "$53,686,000,000",
+            "GDP Growth": "2.22%",
+            "GDP per Capita": "$28,913"
+        },
+        {
+            "#": 100,
+            "Country": "Libya",
+            "GDP": "$52.45 billion",
+            "GDP (Full Value)": "$52,453,000,000",
+            "GDP Growth": "6.72%",
+            "GDP per Capita": "$6,962"
+        },
+        {
+            "#": 101,
+            "Country": "Cambodia",
+            "GDP": "$52.38 billion",
+            "GDP (Full Value)": "$52,379,000,000",
+            "GDP Growth": "4.02%",
+            "GDP per Capita": "$2,902"
+        },
+        {
+            "#": 102,
+            "Country": "Estonia",
+            "GDP": "$51.63 billion",
+            "GDP (Full Value)": "$51,634,000,000",
+            "GDP Growth": "1.43%",
+            "GDP per Capita": "$37,718"
+        },
+        {
+            "#": 103,
+            "Country": "Bahrain",
+            "GDP": "$48.85 billion",
+            "GDP (Full Value)": "$48,849,000,000",
+            "GDP Growth": "\u22120.50%",
+            "GDP per Capita": "$29,569"
+        },
+        {
+            "#": 104,
+            "Country": "Nepal",
+            "GDP": "$45.84 billion",
+            "GDP (Full Value)": "$45,844,000,000",
+            "GDP Growth": "2.96%",
+            "GDP per Capita": "$1,548"
+        },
+        {
+            "#": 105,
+            "Country": "Cyprus",
+            "GDP": "$45.17 billion",
+            "GDP (Full Value)": "$45,171,000,000",
+            "GDP Growth": "2.95%",
+            "GDP per Capita": "$45,409"
+        },
+        {
+            "#": 106,
+            "Country": "Sudan",
+            "GDP": "$44.69 billion",
+            "GDP (Full Value)": "$44,688,000,000",
+            "GDP Growth": "0.71%",
+            "GDP per Capita": "$864"
+        },
+        {
+            "#": 107,
+            "Country": "Iceland",
+            "GDP": "$43.8 billion",
+            "GDP (Full Value)": "$43,800,000,000",
+            "GDP Growth": "1.90%",
+            "GDP per Capita": "$110,048"
+        },
+        {
+            "#": 108,
+            "Country": "Georgia",
+            "GDP": "$42.72 billion",
+            "GDP (Full Value)": "$42,716,000,000",
+            "GDP Growth": "5.31%",
+            "GDP per Capita": "$11,574"
+        },
+        {
+            "#": 109,
+            "Country": "Honduras",
+            "GDP": "$41.51 billion",
+            "GDP (Full Value)": "$41,505,000,000",
+            "GDP Growth": "3.30%",
+            "GDP per Capita": "$3,711"
+        },
+        {
+            "#": 110,
+            "Country": "Zambia",
+            "GDP": "$41.24 billion",
+            "GDP (Full Value)": "$41,243,000,000",
+            "GDP Growth": "4.29%",
+            "GDP per Capita": "$1,831"
+        },
+        {
+            "#": 111,
+            "Country": "Senegal",
+            "GDP": "$40.47 billion",
+            "GDP (Full Value)": "$40,469,000,000",
+            "GDP Growth": "2.17%",
+            "GDP per Capita": "$2,054"
+        },
+        {
+            "#": 112,
+            "Country": "El Salvador",
+            "GDP": "$39.84 billion",
+            "GDP (Full Value)": "$39,838,000,000",
+            "GDP Growth": "3.30%",
+            "GDP per Capita": "$6,196"
+        },
+        {
+            "#": 113,
+            "Country": "Haiti",
+            "GDP": "$39.18 billion",
+            "GDP (Full Value)": "$39,180,000,000",
+            "GDP Growth": "\u22121.70%",
+            "GDP per Capita": "$3,079"
+        },
+        {
+            "#": 114,
+            "Country": "Bosnia and Herzegovina",
+            "GDP": "$36.77 billion",
+            "GDP (Full Value)": "$36,771,000,000",
+            "GDP Growth": "2.20%",
+            "GDP per Capita": "$10,701"
+        },
+        {
+            "#": 115,
+            "Country": "Lebanon",
+            "GDP": "$34.5 billion (2025)",
+            "GDP (Full Value)": "$34,497,000,000",
+            "GDP Growth": "4.00%",
+            "GDP per Capita": "$6,443"
+        },
+        {
+            "#": 116,
+            "Country": "Papua New Guinea",
+            "GDP": "$34.4 billion",
+            "GDP (Full Value)": "$34,403,000,000",
+            "GDP Growth": "3.75%",
+            "GDP per Capita": "$2,632"
+        },
+        {
+            "#": 117,
+            "Country": "Guyana",
+            "GDP": "$33.96 billion",
+            "GDP (Full Value)": "$33,961,000,000",
+            "GDP Growth": "16.17%",
+            "GDP per Capita": "$33,167"
+        },
+        {
+            "#": 118,
+            "Country": "Mali",
+            "GDP": "$33.85 billion",
+            "GDP (Full Value)": "$33,847,000,000",
+            "GDP Growth": "5.50%",
+            "GDP per Capita": "$1,301"
+        },
+        {
+            "#": 119,
+            "Country": "Albania",
+            "GDP": "$33.33 billion",
+            "GDP (Full Value)": "$33,333,312,000",
+            "GDP Growth": "3.41%",
+            "GDP per Capita": "$12,493"
+        },
+        {
+            "#": 120,
+            "Country": "Burkina Faso",
+            "GDP": "$32.51 billion",
+            "GDP (Full Value)": "$32,513,000,000",
+            "GDP Growth": "4.86%",
+            "GDP per Capita": "$1,319"
+        },
+        {
+            "#": 121,
+            "Country": "Armenia",
+            "GDP": "$31.87 billion",
+            "GDP (Full Value)": "$31,873,000,000",
+            "GDP Growth": "5.30%",
+            "GDP per Capita": "$10,410"
+        },
+        {
+            "#": 122,
+            "Country": "Malta",
+            "GDP": "$30.71 billion",
+            "GDP (Full Value)": "$30,712,000,000",
+            "GDP Growth": "3.70%",
+            "GDP per Capita": "$53,560"
+        },
+        {
+            "#": 123,
+            "Country": "Guinea",
+            "GDP": "$29.93 billion",
+            "GDP (Full Value)": "$29,930,000,000",
+            "GDP Growth": "8.68%",
+            "GDP per Capita": "$1,848"
+        },
+        {
+            "#": 124,
+            "Country": "Mongolia",
+            "GDP": "$28.45 billion",
+            "GDP (Full Value)": "$28,450,000,000",
+            "GDP Growth": "5.26%",
+            "GDP per Capita": "$7,853"
+        },
+        {
+            "#": 125,
+            "Country": "Benin",
+            "GDP": "$27.79 billion",
+            "GDP (Full Value)": "$27,786,000,000",
+            "GDP Growth": "6.97%",
+            "GDP per Capita": "$1,809"
+        },
+        {
+            "#": 126,
+            "Country": "Trinidad and Tobago",
+            "GDP": "$26.84 billion",
+            "GDP (Full Value)": "$26,836,000,000",
+            "GDP Growth": "0.77%",
+            "GDP per Capita": "$18,616"
+        },
+        {
+            "#": 127,
+            "Country": "Chad",
+            "GDP": "$25.63 billion",
+            "GDP (Full Value)": "$25,628,000,000",
+            "GDP Growth": "5.23%",
+            "GDP per Capita": "$1,315"
+        },
+        {
+            "#": 128,
+            "Country": "Niger",
+            "GDP": "$24.81 billion",
+            "GDP (Full Value)": "$24,813,000,000",
+            "GDP Growth": "6.73%",
+            "GDP per Capita": "$822"
+        },
+        {
+            "#": 129,
+            "Country": "Nicaragua",
+            "GDP": "$24.23 billion",
+            "GDP (Full Value)": "$24,227,000,000",
+            "GDP Growth": "3.84%",
+            "GDP per Capita": "$3,559"
+        },
+        {
+            "#": 130,
+            "Country": "Kyrgyzstan",
+            "GDP": "$23.61 billion",
+            "GDP (Full Value)": "$23,606,000,000",
+            "GDP Growth": "6.08%",
+            "GDP per Capita": "$3,202"
+        },
+        {
+            "#": 131,
+            "Country": "Gabon",
+            "GDP": "$23.36 billion",
+            "GDP (Full Value)": "$23,363,000,000",
+            "GDP Growth": "2.67%",
+            "GDP per Capita": "$9,918"
+        },
+        {
+            "#": 132,
+            "Country": "Mozambique",
+            "GDP": "$23.27 billion",
+            "GDP (Full Value)": "$23,275,000,000",
+            "GDP Growth": "0.52%",
+            "GDP per Capita": "$632"
+        },
+        {
+            "#": 133,
+            "Country": "Jamaica",
+            "GDP": "$23.03 billion",
+            "GDP (Full Value)": "$23,028,000,000",
+            "GDP Growth": "\u22121.15%",
+            "GDP per Capita": "$8,356"
+        },
+        {
+            "#": 134,
+            "Country": "Botswana",
+            "GDP": "$21.94 billion",
+            "GDP (Full Value)": "$21,937,000,000",
+            "GDP Growth": "4.75%",
+            "GDP per Capita": "$8,490"
+        },
+        {
+            "#": 135,
+            "Country": "Moldova",
+            "GDP": "$21.89 billion",
+            "GDP (Full Value)": "$21,889,000,000",
+            "GDP Growth": "1.90%",
+            "GDP per Capita": "$9,354"
+        },
+        {
+            "#": 136,
+            "Country": "North Macedonia",
+            "GDP": "$21.61 billion",
+            "GDP (Full Value)": "$21,605,000,000",
+            "GDP Growth": "3.10%",
+            "GDP per Capita": "$11,967"
+        },
+        {
+            "#": 137,
+            "Country": "Madagascar",
+            "GDP": "$21.18 billion",
+            "GDP (Full Value)": "$21,185,000,000",
+            "GDP Growth": "3.64%",
+            "GDP per Capita": "$656"
+        },
+        {
+            "#": 138,
+            "Country": "Tajikistan",
+            "GDP": "$20.42 billion",
+            "GDP (Full Value)": "$20,418,000,000",
+            "GDP Growth": "6.00%",
+            "GDP per Capita": "$1,939"
+        },
+        {
+            "#": 139,
+            "Country": "Syria",
+            "GDP": "$19.99 billion (WB, 2023)",
+            "GDP (Full Value)": "$19,993,439,950",
+            "GDP Growth": "\u22121.21%",
+            "GDP per Capita": "$847"
+        },
+        {
+            "#": 140,
+            "Country": "Afghanistan",
+            "GDP": "$19.66 billion (2025)",
+            "GDP (Full Value)": "$19,662,000,000",
+            "GDP Growth": "3.00%",
+            "GDP per Capita": "$448"
+        },
+        {
+            "#": 141,
+            "Country": "Laos",
+            "GDP": "$18.96 billion",
+            "GDP (Full Value)": "$18,959,000,000",
+            "GDP Growth": "4.01%",
+            "GDP per Capita": "$2,403"
+        },
+        {
+            "#": 142,
+            "Country": "Malawi",
+            "GDP": "$18.15 billion",
+            "GDP (Full Value)": "$18,152,000,000",
+            "GDP Growth": "2.23%",
+            "GDP per Capita": "$733"
+        },
+        {
+            "#": 143,
+            "Country": "Rwanda",
+            "GDP": "$17.34 billion",
+            "GDP (Full Value)": "$17,336,000,000",
+            "GDP Growth": "7.23%",
+            "GDP per Capita": "$1,198"
+        },
+        {
+            "#": 144,
+            "Country": "Namibia",
+            "GDP": "$17.31 billion",
+            "GDP (Full Value)": "$17,314,000,000",
+            "GDP Growth": "2.40%",
+            "GDP per Capita": "$5,573"
+        },
+        {
+            "#": 145,
+            "Country": "Mauritius",
+            "GDP": "$17.12 billion",
+            "GDP (Full Value)": "$17,119,000,000",
+            "GDP Growth": "3.40%",
+            "GDP per Capita": "$13,812"
+        },
+        {
+            "#": 146,
+            "Country": "Bahamas",
+            "GDP": "$17.04 billion",
+            "GDP (Full Value)": "$17,042,000,000",
+            "GDP Growth": "2.10%",
+            "GDP per Capita": "$40,892"
+        },
+        {
+            "#": 147,
+            "Country": "Congo",
+            "GDP": "$17.03 billion",
+            "GDP (Full Value)": "$17,028,000,000",
+            "GDP Growth": "2.84%",
+            "GDP per Capita": "$2,554"
+        },
+        {
+            "#": 148,
+            "Country": "Brunei",
+            "GDP": "$16.86 billion",
+            "GDP (Full Value)": "$16,863,000,000",
+            "GDP Growth": "2.60%",
+            "GDP per Capita": "$36,288"
+        },
+        {
+            "#": 149,
+            "Country": "North Korea",
+            "GDP": "$16.45 billion (UN, 2023)",
+            "GDP (Full Value)": "$16,446,632,290",
+            "GDP Growth": "3.06%",
+            "GDP per Capita": "$640"
+        },
+        {
+            "#": 150,
+            "Country": "Mauritania",
+            "GDP": "$14.35 billion",
+            "GDP (Full Value)": "$14,352,000,000",
+            "GDP Growth": "4.42%",
+            "GDP per Capita": "$3,033"
+        },
+        {
+            "#": 151,
+            "Country": "Somalia",
+            "GDP": "$14.17 billion",
+            "GDP (Full Value)": "$14,174,000,000",
+            "GDP Growth": "2.60%",
+            "GDP per Capita": "$813"
+        },
+        {
+            "#": 152,
+            "Country": "Equatorial Guinea",
+            "GDP": "$13.72 billion",
+            "GDP (Full Value)": "$13,722,000,000",
+            "GDP Growth": "\u22122.69%",
+            "GDP per Capita": "$8,152"
+        },
+        {
+            "#": 153,
+            "Country": "State of Palestine",
+            "GDP": "$13.71 billion (2024)",
+            "GDP (Full Value)": "$13,711,000,000",
+            "GDP Growth": "\u221226.60%",
+            "GDP per Capita": "$2,443"
+        },
+        {
+            "#": 154,
+            "Country": "Togo",
+            "GDP": "$13.44 billion",
+            "GDP (Full Value)": "$13,437,000,000",
+            "GDP Growth": "5.00%",
+            "GDP per Capita": "$1,341"
+        },
+        {
+            "#": 155,
+            "Country": "Montenegro",
+            "GDP": "$10.23 billion",
+            "GDP (Full Value)": "$10,227,000,000",
+            "GDP Growth": "2.80%",
+            "GDP per Capita": "$16,377"
+        },
+        {
+            "#": 156,
+            "Country": "New Caledonia",
+            "GDP": "$10.14 billion (UN, 2023)",
+            "GDP (Full Value)": "$10,139,988,153",
+            "GDP Growth": "\u22120.41%",
+            "GDP per Capita": "$34,981"
+        },
+        {
+            "#": 157,
+            "Country": "Monaco",
+            "GDP": "$10 billion (WB, 2023)",
+            "GDP (Full Value)": "$9,995,350,547",
+            "GDP Growth": "5.04%",
+            "GDP per Capita": "$256,581"
+        },
+        {
+            "#": 158,
+            "Country": "Liechtenstein",
+            "GDP": "$9.44 billion",
+            "GDP (Full Value)": "$9,442,000,000",
+            "GDP Growth": "\u22120.40%",
+            "GDP per Capita": "$226,809"
+        },
+        {
+            "#": 159,
+            "Country": "Bermuda",
+            "GDP": "$8.98 billion (WB, 2024)",
+            "GDP (Full Value)": "$8,980,200,000",
+            "GDP Growth": "2.11%",
+            "GDP per Capita": "$138,935"
+        },
+        {
+            "#": 160,
+            "Country": "Barbados",
+            "GDP": "$8.48 billion",
+            "GDP (Full Value)": "$8,483,000,000",
+            "GDP Growth": "2.46%",
+            "GDP per Capita": "$29,020"
+        },
+        {
+            "#": 161,
+            "Country": "Sierra Leone",
+            "GDP": "$8.27 billion",
+            "GDP (Full Value)": "$8,270,000,000",
+            "GDP Growth": "4.55%",
+            "GDP per Capita": "$919"
+        },
+        {
+            "#": 162,
+            "Country": "Burundi",
+            "GDP": "$8.14 billion",
+            "GDP (Full Value)": "$8,137,000,000",
+            "GDP Growth": "3.82%",
+            "GDP per Capita": "$546"
+        },
+        {
+            "#": 163,
+            "Country": "Maldives",
+            "GDP": "$8.13 billion",
+            "GDP (Full Value)": "$8,130,000,000",
+            "GDP Growth": "3.02%",
+            "GDP per Capita": "$19,464"
+        },
+        {
+            "#": 164,
+            "Country": "Yemen",
+            "GDP": "$7.43 billion",
+            "GDP (Full Value)": "$7,435,000,000",
+            "GDP Growth": "0.51%",
+            "GDP per Capita": "$384"
+        },
+        {
+            "#": 165,
+            "Country": "Isle of Man",
+            "GDP": "$7.43 billion (WB, 2022)",
+            "GDP (Full Value)": "$7,431,257,411",
+            "GDP Growth": "\u22124.17%",
+            "GDP per Capita": "$88,329"
+        },
+        {
+            "#": 166,
+            "Country": "Cayman Islands",
+            "GDP": "$7.14 billion (WB, 2023)",
+            "GDP (Full Value)": "$7,139,428,558",
+            "GDP Growth": "4.36%",
+            "GDP per Capita": "$97,750"
+        },
+        {
+            "#": 167,
+            "Country": "Guam",
+            "GDP": "$6.91 billion (WB, 2022)",
+            "GDP (Full Value)": "$6,910,000,000",
+            "GDP Growth": "5.10%",
+            "GDP per Capita": "$41,833"
+        },
+        {
+            "#": 168,
+            "Country": "French Polynesia",
+            "GDP": "$6.4 billion (WB, 2023)",
+            "GDP (Full Value)": "$6,402,221,222",
+            "GDP Growth": "3.00%",
+            "GDP per Capita": "$22,774"
+        },
+        {
+            "#": 169,
+            "Country": "Fiji",
+            "GDP": "$6.35 billion",
+            "GDP (Full Value)": "$6,352,000,000",
+            "GDP Growth": "2.43%",
+            "GDP per Capita": "$6,802"
+        },
+        {
+            "#": 170,
+            "Country": "South Sudan",
+            "GDP": "$6.07 billion",
+            "GDP (Full Value)": "$6,069,000,000",
+            "GDP Growth": "4.14%",
+            "GDP per Capita": "$488"
+        },
+        {
+            "#": 171,
+            "Country": "Suriname",
+            "GDP": "$5.91 billion",
+            "GDP (Full Value)": "$5,908,000,000",
+            "GDP Growth": "3.93%",
+            "GDP per Capita": "$8,856"
+        },
+        {
+            "#": 172,
+            "Country": "Eswatini",
+            "GDP": "$5.79 billion",
+            "GDP (Full Value)": "$5,792,000,000",
+            "GDP Growth": "4.04%",
+            "GDP per Capita": "$4,927"
+        },
+        {
+            "#": 173,
+            "Country": "Liberia",
+            "GDP": "$5.64 billion",
+            "GDP (Full Value)": "$5,642,000,000",
+            "GDP Growth": "5.11%",
+            "GDP per Capita": "$964"
+        },
+        {
+            "#": 174,
+            "Country": "Andorra",
+            "GDP": "$4.88 billion",
+            "GDP (Full Value)": "$4,879,000,000",
+            "GDP Growth": "2.10%",
+            "GDP per Capita": "$53,475"
+        },
+        {
+            "#": 175,
+            "Country": "Djibouti",
+            "GDP": "$4.72 billion",
+            "GDP (Full Value)": "$4,725,000,000",
+            "GDP Growth": "6.00%",
+            "GDP per Capita": "$4,421"
+        },
+        {
+            "#": 176,
+            "Country": "U.S. Virgin Islands",
+            "GDP": "$4.67 billion (WB, 2022)",
+            "GDP (Full Value)": "$4,672,000,000",
+            "GDP Growth": "\u22121.31%",
+            "GDP per Capita": "$44,321"
+        },
+        {
+            "#": 177,
+            "Country": "Aruba",
+            "GDP": "$4.67 billion",
+            "GDP (Full Value)": "$4,671,000,000",
+            "GDP Growth": "2.25%",
+            "GDP per Capita": "$42,862"
+        },
+        {
+            "#": 178,
+            "Country": "Faeroe Islands",
+            "GDP": "$3.91 billion (WB, 2023)",
+            "GDP (Full Value)": "$3,907,323,961",
+            "GDP Growth": "2.49%",
+            "GDP per Capita": "$71,774"
+        },
+        {
+            "#": 179,
+            "Country": "Bhutan",
+            "GDP": "$3.86 billion",
+            "GDP (Full Value)": "$3,856,000,000",
+            "GDP Growth": "7.48%",
+            "GDP per Capita": "$4,867"
+        },
+        {
+            "#": 180,
+            "Country": "Central African Republic",
+            "GDP": "$3.49 billion",
+            "GDP (Full Value)": "$3,492,000,000",
+            "GDP Growth": "2.61%",
+            "GDP per Capita": "$613"
+        },
+        {
+            "#": 181,
+            "Country": "Belize",
+            "GDP": "$3.45 billion",
+            "GDP (Full Value)": "$3,450,000,000",
+            "GDP Growth": "2.19%",
+            "GDP per Capita": "$8,134"
+        },
+        {
+            "#": 182,
+            "Country": "Cabo Verde",
+            "GDP": "$3.45 billion",
+            "GDP (Full Value)": "$3,448,000,000",
+            "GDP Growth": "4.79%",
+            "GDP per Capita": "$6,670"
+        },
+        {
+            "#": 183,
+            "Country": "Greenland",
+            "GDP": "$3.33 billion (WB, 2023)",
+            "GDP (Full Value)": "$3,326,544,174",
+            "GDP Growth": "0.87%",
+            "GDP per Capita": "$58,499"
+        },
+        {
+            "#": 184,
+            "Country": "Cura\u00e7ao",
+            "GDP": "$3.28 billion (WB, 2023)",
+            "GDP (Full Value)": "$3,281,419,347",
+            "GDP Growth": "4.20%",
+            "GDP per Capita": "$21,062"
+        },
+        {
+            "#": 185,
+            "Country": "Guinea-Bissau",
+            "GDP": "$2.98 billion",
+            "GDP (Full Value)": "$2,985,000,000",
+            "GDP Growth": "4.90%",
+            "GDP per Capita": "$1,449"
+        },
+        {
+            "#": 186,
+            "Country": "Lesotho",
+            "GDP": "$2.97 billion",
+            "GDP (Full Value)": "$2,972,000,000",
+            "GDP Growth": "1.11%",
+            "GDP per Capita": "$1,241"
+        },
+        {
+            "#": 187,
+            "Country": "Gambia",
+            "GDP": "$2.79 billion",
+            "GDP (Full Value)": "$2,792,000,000",
+            "GDP Growth": "5.11%",
+            "GDP per Capita": "$953"
+        },
+        {
+            "#": 188,
+            "Country": "Saint Lucia",
+            "GDP": "$2.77 billion",
+            "GDP (Full Value)": "$2,765,000,000",
+            "GDP Growth": "1.96%",
+            "GDP per Capita": "$15,135"
+        },
+        {
+            "#": 189,
+            "Country": "San Marino",
+            "GDP": "$2.42 billion",
+            "GDP (Full Value)": "$2,417,000,000",
+            "GDP Growth": "1.30%",
+            "GDP per Capita": "$70,187"
+        },
+        {
+            "#": 190,
+            "Country": "Antigua and Barbuda",
+            "GDP": "$2.38 billion",
+            "GDP (Full Value)": "$2,385,000,000",
+            "GDP Growth": "2.59%",
+            "GDP per Capita": "$22,448"
+        },
+        {
+            "#": 191,
+            "Country": "Eritrea",
+            "GDP": "$2.28 billion (UN, 2023)",
+            "GDP (Full Value)": "$2,275,290,216",
+            "GDP Growth": "2.80%",
+            "GDP per Capita": "$656"
+        },
+        {
+            "#": 192,
+            "Country": "Seychelles",
+            "GDP": "$2.25 billion",
+            "GDP (Full Value)": "$2,251,000,000",
+            "GDP Growth": "1.52%",
+            "GDP per Capita": "$17,675"
+        },
+        {
+            "#": 193,
+            "Country": "Timor-Leste",
+            "GDP": "$2.17 billion",
+            "GDP (Full Value)": "$2,170,000,000",
+            "GDP Growth": "4.10%",
+            "GDP per Capita": "$1,520"
+        },
+        {
+            "#": 194,
+            "Country": "Solomon Islands",
+            "GDP": "$1.84 billion",
+            "GDP (Full Value)": "$1,836,000,000",
+            "GDP Growth": "2.79%",
+            "GDP per Capita": "$2,258"
+        },
+        {
+            "#": 195,
+            "Country": "Comoros",
+            "GDP": "$1.81 billion",
+            "GDP (Full Value)": "$1,814,000,000",
+            "GDP Growth": "4.08%",
+            "GDP per Capita": "$1,951"
+        },
+        {
+            "#": 196,
+            "Country": "Turks and Caicos",
+            "GDP": "$1.75 billion (WB, 2024)",
+            "GDP (Full Value)": "$1,745,378,000",
+            "GDP Growth": "5.64%",
+            "GDP per Capita": "$37,507"
+        },
+        {
+            "#": 197,
+            "Country": "Sint Maarten",
+            "GDP": "$1.74 billion (WB, 2024)",
+            "GDP (Full Value)": "$1,735,210,228",
+            "GDP Growth": "3.50%",
+            "GDP per Capita": "$40,028"
+        },
+        {
+            "#": 198,
+            "Country": "British Virgin Islands",
+            "GDP": "$1.51 billion (UN, 2023)",
+            "GDP (Full Value)": "$1,505,856,107",
+            "GDP Growth": "2.76%",
+            "GDP per Capita": "$38,627"
+        },
+        {
+            "#": 199,
+            "Country": "Grenada",
+            "GDP": "$1.48 billion",
+            "GDP (Full Value)": "$1,483,000,000",
+            "GDP Growth": "3.11%",
+            "GDP per Capita": "$12,689"
+        },
+        {
+            "#": 200,
+            "Country": "Vanuatu",
+            "GDP": "$1.4 billion",
+            "GDP (Full Value)": "$1,396,000,000",
+            "GDP Growth": "3.53%",
+            "GDP per Capita": "$4,082"
+        },
+        {
+            "#": 201,
+            "Country": "Samoa",
+            "GDP": "$1.38 billion",
+            "GDP (Full Value)": "$1,376,000,000",
+            "GDP Growth": "3.21%",
+            "GDP per Capita": "$6,455"
+        },
+        {
+            "#": 202,
+            "Country": "St. Vincent & Grenadines",
+            "GDP": "$1.24 billion",
+            "GDP (Full Value)": "$1,236,000,000",
+            "GDP Growth": "3.00%",
+            "GDP per Capita": "$11,098"
+        },
+        {
+            "#": 203,
+            "Country": "Sao Tome & Principe",
+            "GDP": "$1.16 billion",
+            "GDP (Full Value)": "$1,161,000,000",
+            "GDP Growth": "3.40%",
+            "GDP per Capita": "$4,739"
+        },
+        {
+            "#": 204,
+            "Country": "Saint Kitts & Nevis",
+            "GDP": "$1.14 billion",
+            "GDP (Full Value)": "$1,143,000,000",
+            "GDP Growth": "2.04%",
+            "GDP per Capita": "$22,146"
+        },
+        {
+            "#": 205,
+            "Country": "Northern Mariana Islands",
+            "GDP": "$1.1 billion (WB, 2022)",
+            "GDP (Full Value)": "$1,096,000,000",
+            "GDP Growth": "16.64%",
+            "GDP per Capita": "$23,786"
+        },
+        {
+            "#": 206,
+            "Country": "American Samoa",
+            "GDP": "$871 million (WB, 2022)",
+            "GDP (Full Value)": "$871,000,000",
+            "GDP Growth": "1.74%",
+            "GDP per Capita": "$18,017"
+        },
+        {
+            "#": 207,
+            "Country": "Dominica",
+            "GDP": "$791 million",
+            "GDP (Full Value)": "$791,000,000",
+            "GDP Growth": "3.14%",
+            "GDP per Capita": "$10,459"
+        },
+        {
+            "#": 208,
+            "Country": "Tonga",
+            "GDP": "$716 million",
+            "GDP (Full Value)": "$716,000,000",
+            "GDP Growth": "2.32%",
+            "GDP per Capita": "$7,238"
+        },
+        {
+            "#": 209,
+            "Country": "Saint Martin",
+            "GDP": "$649.21 million (WB, 2021)",
+            "GDP (Full Value)": "$649,206,156",
+            "GDP Growth": "4.90%",
+            "GDP per Capita": "$21,668"
+        },
+        {
+            "#": 210,
+            "Country": "Micronesia",
+            "GDP": "$521 million",
+            "GDP (Full Value)": "$521,000,000",
+            "GDP Growth": "0.67%",
+            "GDP per Capita": "$5,514"
+        },
+        {
+            "#": 211,
+            "Country": "Anguilla",
+            "GDP": "$415.74 million (UN, 2023)",
+            "GDP (Full Value)": "$415,735,284",
+            "GDP Growth": "2.47%",
+            "GDP per Capita": "$28,850"
+        },
+        {
+            "#": 212,
+            "Country": "Kiribati",
+            "GDP": "$401 million",
+            "GDP (Full Value)": "$401,000,000",
+            "GDP Growth": "3.10%",
+            "GDP per Capita": "$3,051"
+        },
+        {
+            "#": 213,
+            "Country": "Palau",
+            "GDP": "$377 million",
+            "GDP (Full Value)": "$377,000,000",
+            "GDP Growth": "3.30%",
+            "GDP per Capita": "$21,571"
+        },
+        {
+            "#": 214,
+            "Country": "Cook Islands",
+            "GDP": "$366.21 million (UN, 2023)",
+            "GDP (Full Value)": "$366,211,548",
+            "GDP Growth": "19.07%",
+            "GDP per Capita": "$25,750"
+        },
+        {
+            "#": 215,
+            "Country": "Marshall Islands",
+            "GDP": "$342 million",
+            "GDP (Full Value)": "$342,000,000",
+            "GDP Growth": "3.67%",
+            "GDP per Capita": "$9,677"
+        },
+        {
+            "#": 216,
+            "Country": "Nauru",
+            "GDP": "$196 million",
+            "GDP (Full Value)": "$196,000,000",
+            "GDP Growth": "2.13%",
+            "GDP per Capita": "$16,053"
+        },
+        {
+            "#": 217,
+            "Country": "Montserrat",
+            "GDP": "$80.43 million (UN, 2023)",
+            "GDP (Full Value)": "$80,429,630",
+            "GDP Growth": "7.29%",
+            "GDP per Capita": "$18,197"
+        },
+        {
+            "#": 218,
+            "Country": "Tuvalu",
+            "GDP": "$65 million",
+            "GDP (Full Value)": "$65,000,000",
+            "GDP Growth": "2.54%",
+            "GDP per Capita": "$6,581"
+        }
+    ]
+}
