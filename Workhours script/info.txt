@@ -1,0 +1,3 @@
+This script is used to calculate needed hours for each month in the work environment.
+It calculates every month and how many work days are there, which then multiplies the workdays in a month
+by an 8, which returns total hours needed to clock each month.

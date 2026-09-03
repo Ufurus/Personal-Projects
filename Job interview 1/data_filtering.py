@@ -70,7 +70,7 @@ if chosen_filter == 'gdp':
                         total_gdp += int(b[:5])
 
 elif chosen_filter == 'population':
-    # TODO POPULATION TASK
+    # TODO  POPULATION TASK
     print('Enter a specific country to see its population, or leave blank to show all countries')
     print('You can also sort by Regions/Continents to see the population, leave blank to show all continents')
     chosen_region = input('Choose region: ')

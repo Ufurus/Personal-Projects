@@ -1,4 +1,4 @@
-# target link: https://steamcommunity.com/profiles/76561198126545474/gcpd/440/
+# target link: https://api.steampowered.com/
 #Вашият Steam уеб API ключ
 # Ключ: 485EC40E41D3AC8BF1584CE2605E5D94
 # Домейн: localhost
