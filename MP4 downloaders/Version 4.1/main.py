@@ -1,5 +1,4 @@
 import os; import subprocess;import tkinter as tk; import tkinter.messagebox; from pathlib import Path
-from sys import exit
 
 DOWNLOADS_FOLDER = Path.home() / 'Downloads'
 
@@ -42,9 +41,8 @@ def download_button():
     file_name = [i for i in os.listdir(DOWNLOADS_FOLDER) if i.endswith(".webm") or i.endswith(".mkv")][0]
     new_name = str(file_name[:file_name.index('[') - 1]) + '.mp4'
     if os.path.exists(DOWNLOADS_FOLDER / new_name):
-        tkinter.messagebox.showinfo("Error", "File already exists")
         os.remove(DOWNLOADS_FOLDER / file_name)
-        root.mainloop()
+        tkinter.messagebox.showinfo("Error", "File already exists")
     else:
         full_file_path = DOWNLOADS_FOLDER / file_name
         os.rename(full_file_path, DOWNLOADS_FOLDER / new_name)
