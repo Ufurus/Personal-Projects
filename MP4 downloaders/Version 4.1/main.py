@@ -1,4 +1,5 @@
 import os; import subprocess;import tkinter as tk; import tkinter.messagebox; from pathlib import Path
+import sys
 
 DOWNLOADS_FOLDER = Path.home() / 'Downloads'
 
@@ -12,6 +13,8 @@ root = tk.Tk(screenName='MP4 downloader',
 #configuring size of the window and where it opens on the monitor, preferable the center of the screen
 root.geometry("700x500")
 root.eval('tk::PlaceWindow %s center' % root.winfo_pathname(root.winfo_id()))
+
+root.iconbitmap(r'C:\Users\Потребител\Desktop\REPO\Personal-projects\MP4 downloaders\Version 4.1\Logo.ico')
 
 # simple label for name of the application
 title_label = tk.Label(root, text='enter link below to download it', font=('consolas', 15))
