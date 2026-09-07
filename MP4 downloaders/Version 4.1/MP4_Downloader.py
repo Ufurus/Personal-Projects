@@ -1,5 +1,5 @@
 import os; import subprocess;import tkinter as tk; import tkinter.messagebox; from pathlib import Path
-import sys
+from tkinter.ttk import Progressbar
 
 DOWNLOADS_FOLDER = Path.home() / 'Downloads'
 
@@ -50,10 +50,10 @@ def download_button():
         full_file_path = DOWNLOADS_FOLDER / file_name
         os.rename(full_file_path, DOWNLOADS_FOLDER / new_name)
         tkinter.messagebox.showinfo("Success", "Download successful")
+        os.startfile(DOWNLOADS_FOLDER)
 
 # download button
-button = tk.Button(root, text='download', command=download_button)
+button = tk.Button(root, text='download', command=download_button, foreground='blue', background='grey')
 button.pack()
-
 # this ensures the window starts
 root.mainloop()

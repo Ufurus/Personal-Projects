@@ -1,4 +1,8 @@
-([('VCRUNTIME140.dll',
+([('MP4_downloader.exe',
+   'C:\\Users\\Потребител\\Desktop\\REPO\\Personal-projects\\MP4 '
+   'downloaders\\Version 4\\build\\MP4_downloader\\MP4_downloader.exe',
+   'EXECUTABLE'),
+  ('VCRUNTIME140.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
    'BINARY'),
@@ -3756,16 +3760,12 @@
    'BINARY'),
   ('base_library.zip',
    'C:\\Users\\Потребител\\Desktop\\REPO\\Personal-projects\\MP4 '
-   'downloaders\\Version 4\\build\\main\\base_library.zip',
+   'downloaders\\Version 4\\build\\MP4_downloader\\base_library.zip',
    'DATA'),
   ('libcrypto-3.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
    'BINARY'),
-  ('main.exe',
-   'C:\\Users\\Потребител\\Desktop\\REPO\\Personal-projects\\MP4 '
-   'downloaders\\Version 4\\build\\main\\main.exe',
-   'EXECUTABLE'),
   ('python311.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.dll',
