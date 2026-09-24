@@ -6,3 +6,5 @@ if __name__ == '__main__':
     render_operations_buttons()
     render_deleting_buttons()
     app.mainloop()
+
+
