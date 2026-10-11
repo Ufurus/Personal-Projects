@@ -1,6 +1,6 @@
 from pathlib import Path; import os
 
-destination = Path('D:\DOWNLOADE')
+destination = Path('D:\DOWNLOADE') # chosen path, maybe later version will be with selected path, not a fixed one
 with os.scandir(destination) as files:
     for file in files:
         file_size_kb = file.stat().st_size / 1024
