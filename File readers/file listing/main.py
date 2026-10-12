@@ -1,5 +1,9 @@
 from pathlib import Path
 
+""""
+This uses a recursive search to find all files in a working/chosen directory.
+"""
+
 destination = Path('D:\DOWNLOADE')
 # with os.scandir(destination) as files:
 #     for file in files:
